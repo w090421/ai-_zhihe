@@ -22,3 +22,7 @@ playwright-report/
 test-results/
 
 public/uploads/
+# 爬虫产物（本地缓存/原始 JSON/运行日志不入库）
+data/cache/
+data/raw/
+crawler/crawl.log

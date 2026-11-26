@@ -435,7 +435,22 @@ class Crawler:
 # ---------------------------------------------------------------- helpers
 def clean_meta(value: str) -> str:
     value = value.replace("\u200b", "").replace("\xa0", " ").replace("\u3000", " ")
-    return re.sub(r"\s+", " ", value).strip()
+    return mask_personal(re.sub(r"\s+", " ", value).strip())
+
+
+_PHONE_RE = re.compile(r"(?<!\d)1[3-9]\d{9}(?!\d)")
+_LANDLINE_RE = re.compile(r"(?<!\d)0\d{2,3}-?\d{7,8}(?!\d)")
+_ID_RE = re.compile(r"(?<!\d)\d{17}[\dXx](?!\d)")
+
+
+def mask_personal(text: str) -> str:
+    """脱敏：手机号、座机、身份证号一律替换为 [已脱敏]。"""
+    if not text:
+        return text
+    text = _ID_RE.sub("[已脱敏]", text)
+    text = _PHONE_RE.sub("[已脱敏]", text)
+    text = _LANDLINE_RE.sub("[已脱敏]", text)
+    return text
 
 
 def clean_inline(value: str) -> str:
@@ -449,7 +464,7 @@ def clean_inline(value: str) -> str:
     value = re.sub(r"(?<=[\u4e00-\u9fff])\s*[—–-]\s*(?=[\u4e00-\u9fff])", "-", value)
     value = re.sub(r"(?<=\d)\s+(?=\d)", "", value)
     value = re.sub(r"\b([A-Z])\s+([A-Z]{2,})\b", r"\1\2", value)
-    return value.strip()
+    return mask_personal(value.strip())
 
 
 def extract_content(soup: BeautifulSoup) -> str:

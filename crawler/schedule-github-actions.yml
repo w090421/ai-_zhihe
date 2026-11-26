@@ -24,6 +24,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seed/school-info.csv data/seed/school-info.full.csv data/seed/teacher-info.csv data/excel data/raw data/crawl_stats.json
+          git add -A -- data/seed data/excel
           git diff --cached --quiet || git commit -m "chore(data): refresh CUMT public info"
-          git push
+          # develop 受分支保护，push 到独立分支后人工开 PR
+          git push origin HEAD:bot/daily-crawl
