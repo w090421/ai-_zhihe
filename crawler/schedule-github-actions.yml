@@ -1,0 +1,30 @@
+# 示例：复制到团队仓库 .github/workflows/crawl.yml 后生效。
+# 建议每天 UTC 20:00（北京时间 04:00）刷新一次。
+name: crawl-cumt-info
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r crawler/requirements.txt
+      - run: python crawler/cumt_crawler.py --max-pages 5 --delay 1.0
+      - name: Commit refreshed seed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- data/seed data/excel
+          git diff --cached --quiet || git commit -m "chore(data): refresh CUMT public info"
+          # develop 受分支保护，push 到独立分支后人工开 PR
+          git push origin HEAD:bot/daily-crawl

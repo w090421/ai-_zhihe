@@ -1,0 +1,547 @@
+﻿id,name,department,title,advisor_type,research_area,graduated_from,email,bio,source_url,source_name,published_at,crawled_at
+cumt-teacher-b5e06021ae,KAPLUN DMITRII,人工智能系　智能科学与技术系,教授,,,,wjjs0036@cumt.edu.cn,"KAPLUN DMITRII I. (b. 01.02.1982), PhD (2009), Associate Professor (2015), Lead Researcher (2020) at Saint Petersburg Electrotechnical University “LETI” (Saint Petersburg, Russia). In 2022 worked as Research Professor on Faculty of Information Technology at Kazakh-British Technical University (Almaty, Republic of Kazakhstan). From 2023 professor of Artificial Intelligence Center at China University of Mining and Technology (Xuzhou, China). In 2009 he defended his PhD thesis in digital signal processing at Saint Petersburg Electrotechnical University “LETI”. The current research and academic work are related with digital signal and image processing, embedded and reconfigurable systems, computer vision and machine learning. D. Kaplun regularly takes part in various interdisciplinary projects related to the use of computer vision and machine learning for biomedical data processing. The most",https://cs.cumt.edu.cn/info/1105/7177.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-5b170856ae,吴大鹏,人工智能系　智能科学与技术系,教授,,智能泛在感知、社会计算、B5G/6G、新型电力系统,,wudapengphd@gmail.com,"吴大鹏，于北京邮电大学获得博士学位。入选国家百千万人才工程、享受国务院政府特殊津贴、国家有突出贡献中青年专家。担任ACM/EAI MobiMedia 2017、IEEE IUCC、2022 IEEE Healthcom 2023 TPC chair，担任/曾任IEEE IoT、Elsevier DCN、电子学报、电子与信息学报编委。
+长期从事智能泛在感知、社会计算、B5G/6G、新型电力系统等方面研究，主持国家自然科学基金重点项目/面上项目/青年项目4项，承担国家电网、中国信通院、中国航天集团、江苏电力等企业项目30余项，参与制定国际标准/行业标准10余项。
+在IEEE Journal on Selected Areas in Communications、EEE Transaction on Wireless Communication、IEEE Transaction on Multimedia、电子学报、通信学报、电子与信息学报等国内外重要刊物发表学术论文181篇，授权发明专利26件。获得IEEE ICNC 2024、IEEE Blockchain 2021，IEEE WCSP 2021，ACM/EAIMobiMedia2021，IEEE MSN 2020，IEEE Greencom 2019，IEEE WASA 2016等国际知名会议最佳论文奖，获得IEEE多媒体领域2018年最佳期刊论文奖。
+成果获得2012、2018重庆市科技进步一等奖，2023年国家电网有限公司科学技术进步一等奖，2021年国家电网有限公司技术发明一等奖，2023年中国电工学会科学技术一等奖。
+Email ：wudapengphd@gmail.com",https://cs.cumt.edu.cn/info/1105/7578.htm,计算机科学与技术学院/人工智能学院官网,2026-09-15,2026-11-26T17:27:09
+cumt-teacher-b6b4ca2a35,夏战国,人工智能系　智能科学与技术系,教授,博士生导师,机器学习、数据挖掘和智能信息处理,中国矿业大学计算机学院,xiazg@cumt.edu.cn,"夏战国，男，1974年12月出生。毕业于中国矿业大学计算机学院，教授，博士，博士生导师。
+夏战国主要从事机器学习、数据挖掘和智能信息处理等方面的研究。近几年，主要承担《人工智能》、《计算机组成原理》等课程的教学工作，主持中央高校专项项目1项，主持中国矿业大学科技基金项目2项，参加国家自然基金项目、高等学校博士学科点专项科研基金项目以及企业委托横向项目多项，参编教材3部，发表学术论文20余篇，其中SCI、EI收录10余篇。
+夏战国近几年获中国矿业大学优秀教学奖3项，教学成果奖5项，获“中国矿业大学百佳教师”、“优秀毕业设计指导教师”、“优秀实习指导教师”、“中国矿业大学十佳青年教职工”、“十佳基础课教师奖”、“校教书育人先进个人”、“校优秀班主任”和“校优秀共产党员”等荣誉称号。获中国煤炭工业科技进步二等奖1项，中国矿业大学科技进步二等奖2项。近几年，指导国家级大学生创新计划项目1项，省级大学生科研训练计划项目2项，校级大学生创新创业计划项目多项，组织和指导学生参加中国大学生计算机大赛、中国大学生软件服务外包大赛等赛事，并获得多项佳绩。
+夏战国现为中国计算机学会(CCF)高级会员，中国人工智能学会(CAAI)智能服务专委会委员，江苏省计算机学会人工智能专委会委员，全国计算机继续教育研究会江苏委员会理事。
+Email: xiazg@cumt.edu.cn
+;",https://cs.cumt.edu.cn/info/1105/4438.htm,计算机科学与技术学院/人工智能学院官网,2017-01-02,2026-11-26T17:27:09
+cumt-teacher-18edfdc8fd,姚睿,人工智能系　智能科学与技术系,教授,,计算机视觉、模式识别、深度学习、人工智能,西北工业大学,ruiyao@cumt.edu.cn,"姚睿，男，博士、中国矿业大学教授、博士生（后）导师。中国体视学会理事，中国计算机学会 (CCF) 杰出会员。入选江苏省 "" 六大人才高峰 "" 高层次人才，中国矿业大学青年学术带头人、优秀青年骨干教师、模范班主任。毕业于西北工业大学，师从张艳宁教授（中科院院士），曾在澳大利亚阿德莱德大学进行合作研究（国家留学基金委博士联合培养、博士后）。
+研究方向：计算机视觉、模式识别、深度学习、人工智能等理论与应用。
+科学方面：主持国家自然科学基金项目4 项（面上项目3 项，青年项目1 项） 、江苏省自然科学基金面上项目、中国博士后科学基金（特别资助项目，面上项目）、徐州市科技项目重点研发等。获教育部高等学校科学研究优秀成果奖1 项，中国煤炭工业协会科学技术奖二等奖2 项，江苏省教育科学研究成果 ( 高校科学技术类 ) 二等奖1 项。指导研究生多次获江苏省优秀学术硕士学位论文奖、中国矿业大学优秀硕士学位论文奖。出版专著2 部，在国内外重要学术期刊、会议上发表学术论文100 余篇：包括 CVPR, ICCV, ECCV, IJCAI, AAAI, IEEE TIP, IEEE TMM, IEEE TCSVT, PR 等。授权发明专利10 项，软件著作权8 项。
+教学方面：主持江苏省教改项目1 项、校教学改革项目2 项，第一作者发表教学论文5 篇（其中教育类 CSSCI/ 北大核心1 篇），获江苏省高等教育科学研究成果奖一等奖（排名第一），校教学成果奖二等奖（排名第一）。获本科校级优秀毕业设计（论文）指导教师，指导多项国家、江苏省、校级大学生创新训练计划项目，指导学生获中国矿业大学本科优秀毕业设计，并指导本科生发表多篇 CCF B / CCF C 学术论文。讲授《图像理解与视觉感知》（本科生）、《信息学科概论》（本科生）、《智能优化方法》（本科生）、计算机数学基础（硕士研究生）、智能视觉计算（博士研究生）等课程。
+社会兼职：中国计算机学会 (CCF) 杰出会员，中国体视学会理事、中国图象图形学学会 (CSIG) 高级会员，CCF 计算机视觉专委会执行委员、江苏省人工智能学会智能系统与应用专",https://cs.cumt.edu.cn/info/1105/4439.htm,计算机科学与技术学院/人工智能学院官网,2016-12-16,2026-11-26T17:27:09
+cumt-teacher-31a9f19604,孙彦景,人工智能系　智能科学与技术系,教授,博士生导师,工业物联网与边缘计算、智能安全与应急通信、无人机应急与应用、数字化转型等相关,,yjsun@cumt.edu.cn,"孙彦景，山东滕州人，教授，博士生导师，现任中国矿业大学计算机科学与技术学院院长、人工智能学院院长，地下空间智能感知与应急物联江苏省产业技术工程化中心主任，徐州市智能安全与应急协同工程研究中心主任。曾任信息化建设与管理处处长、网络与信息中心主任、信控学院副院长。先后入选江苏省“青蓝工程”中青年学术带头人、优秀青年骨干教师、“333工程”第三层次培养对象、江苏省六大人才高峰等人才工程。获2016年全国煤炭青年五四奖章、2024年全国煤炭行业教学成果奖特等奖（排名第2）、2022年江苏省科技进步三等奖（排名第1）、2020年全国煤炭行业教学成果一等奖（排名第1）、2018年江苏省科技进步二等奖（排名第2）、2016年江苏省科技进步二等奖（排名第1）、2015年煤炭工业协会科技进步二等奖（排名第1）、2012年教育部科技进步二等奖（排名第2）。江苏省优秀博士论文指导教师。
+从事工业物联网与边缘计算、智能安全与应急通信、无人机应急与应用、数字化转型等相关的研究工作。电子学会高级会员、计算机学会会员、IEEE会员、IEICE会员，已在重要国际学术会议和IEEE TMC、IoTJ、TVT、TII、通信学报等著名的国内外核心期刊上发表论文100多篇，其中SCI/EI收录60余篇，出版专著2部，申请/授权发明专利50余项。主持国家自然科学基金项目3项，国家重点研发计划项目子课题1项，江苏省重点研发计划项目1项，江苏省“六大人才高峰”高层次人才资助项目1项，作为骨干或技术依托单位负责人参与863重点、国家发改委、江苏省科技成果转化和江苏省高新技术项目多项。
+Email: yjsun@cumt.edu.cn",https://cs.cumt.edu.cn/info/1105/7175.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-02d0362e97,焦文华,人工智能系　智能科学与技术系,教授,博士生导师,方向为机器视觉、透明地质、智能矿山和矿山通信、时间序列分析和故障诊断等,电子科技大学自动化系,o@cumt.edu.cn,"焦文华，中国矿业大学人工智能学院研究员、博士生导师，机器视觉与感知研究中心负责人，中国矿业大学交叉学科教授委员会副主任，第四届电子信息类学位评定分委员会委员。主要研究方向为机器视觉、透明地质、智能矿山和矿山通信、时间序列分析和故障诊断等。在透明品、高反光、吸光品工业瑕疵领域的研究成果，广泛应用于福耀玻璃、玲珑轮胎、辰欣药业、华大基因、奇瑞汽车的光学质检产线中。授权发明专利40 余项，其中美国发明专利3 项。发表 SCI 索引论文20 余篇，EI 索引论文40 余篇，他引550 余次。主持德州市和烟台市重大科技专项（揭榜挂帅项目）各一项，主持徐州市科技局科技项目1 项。原美国贝尔实验室杰出研究员，参与起草国内4G 通信标准十余项（CCSA TC5 WG4 ），两项提案被国际组织3GPP2 采纳为标准。主持德州市和烟台市重大科技专项（揭榜挂帅项目）各一项，主持徐州市科技局科技项目1 项。是浪潮集团、奇瑞汽车、玲珑轮胎等上市企业的特聘顾问。讲授《机器视觉与图像处理》硕博贯通课程。
+教育背景：
+1996 年毕业于电子科技大学自动化系，获得生物医学工程与仪器学士学位；
+1998 年毕业于哈尔滨工业大学航天学院电子与通信工程系，获得通信与电子系统硕士学位；
+2001 年毕业于北京大学电子学系获得通信与信息系统博士学位；
+2010 年，毕业于清华大学获得工商管理硕士（MBA ）。
+所获荣誉及学术奖励情况：
+2000 年10 月，被北京大学评为三好学生，获得一等微软奖学金。
+2007 年10 月，被北京市高级专业技术资格评审委员会，评为“高级工程师”，专业为“通信”。
+2009 年4 月，被阿尔卡特朗讯技术研究院评为会士 ( member, The Alcatel-Lucent Technical Academy ) 。
+2013 年1 月，被贝尔实验室全球授予杰出研究员（D istinguished Member of Technical Staff, DMTS ）终身，荣誉称号。
+2014 年3 月，获得黑龙江省科技进步二等奖，直升机关键技术研究（宽带无线信号辐射源识别与定位技术开",https://cs.cumt.edu.cn/info/1105/7176.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-eb985d3296,许新征,人工智能系　智能科学与技术系,教授,博士生导师,机器学习与数据挖掘、人工智能与模式识别、医学图像处理,中国矿业大学,xxzheng@cumt.edu.cn,"许新征，男，1980年8月出生。工学博士、教授、博士生导师。博士毕业于中国矿业大学，硕士毕业于厦门大学。
+主要从事机器学习与数据挖掘、人工智能与模式识别、医学图像处理等方面的研究。出版专著2 部，授权发明专利4件。在国内外重要学术期刊上发表学术论文60余篇，其中SCI收录50余篇。主要讲授人工智能专业导论、数据挖掘基础、嵌入式操作系统等本科生课程。近期指导博/硕士研究生方向：弱监督学习、医学图像处理、嵌入式人工智能和智能视觉感知等。
+主持国家自然科学基金面上项目（2020.01-2023.12）、江苏省自然科学基金项目（2013.07-2016.06）、中国博士后科学基金项目（2014.06-2016.10）、江苏省博士后基金项目（2013.12-2016.10）、徐州市科技计划项目（2021 . 09 -2023 . 08 ）和多项中央高校基本科研业务费专项资金项目等。参加多项国家自然科学基金面上项目、973计划课题等项目的研究。
+曾获第八届吴文俊人工智能自然科学奖三等奖、江苏省教育教学研究成果奖二等奖、校级青年学术带头人、校级优秀青年骨干教师、校级百佳本科教学教师奖、校级优秀教学成果奖二等奖、校级“教书育人”先进个人、校级本科毕业设计优秀指导教师、教职工年度考核校级优秀和校级优秀班主任等荣誉称号。
+兼任中国计算机学会高级会员、中国人工智能学会会员，中国计算机学会人工智能与模式识别专业委员会委员，中国人工智能学会机器学习专业委员会委员，中国人工智能学会粒计算与知识发现专业委员会委员，中国人工智能学会知识工程与分布式智能专业委员会委员，江苏省人工智能学会机器学习专业委员会常务委员等。
+Email: xxzheng@cumt.edu.cn",https://cs.cumt.edu.cn/info/1105/4440.htm,计算机科学与技术学院/人工智能学院官网,2016-05-03,2026-11-26T17:27:09
+cumt-teacher-d9930c0c77,Elena Fedorchenko,人工智能系　智能科学与技术系,副教授,,,,elena.doinikova86@gmail.com,"Elena Fedorchenko (maiden name - Doynikova, b.23.07.1986),Ph.D. (2017), Associate Professor (2024), Senior Researcher of the Laboratory of Computer Security Problems, St. Petersburg Federal Research Center of the Russian Academy of Sciences (SPC RAS), from 2013 to 2024. From 2024 - Associate Professor of Artificial Intelligence Research Institute at China University of Mining and Technology (Xuzhou, China).
+ShedefendedherPh.D.thesisin InformationSecurity Methods and Systems, InformationSecurity, at the St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences (now -SPC RAS),Russia, in 2017.She was awarded the Medal of the Russian Academy of Science in area of Computer Science, Computer Engineering and Automation in 2015.The current research and academic work are related to the information security and privacy, anomaly and attacks detection, randomized neu",https://cs.cumt.edu.cn/info/1106/7179.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-f090700fd4,孙统风,人工智能系　智能科学与技术系,副教授,硕士生导师,人工智能、机器学习和数据挖掘,中国矿业大学,suntf@cumt.edu.cn,孙统风，博士、副教授、硕士生导师，1977年4月出生。博士、硕士毕业于中国矿业大学，学士毕业于西北工业大学。主要从事人工智能、机器学习和数据挖掘等方面的研究。在国内外重要学术期刊上发表学术论文40余篇，其中被SCI检索的论文20余篇。获国家发明专利授权1项。主持中央高校基本科研业务费专项资金学科前沿项目1项、中国博士后基金项目1项、校基金项目1项，参与国家重点基础研究发展计划（973计划）子课题1项、国家自然科学基金项目3项、江苏省自然科学基金2项，并与企业开展合作，主持一些电力检测、车辆检测等相关横向课题研究。曾荣获教书育人先进个人、江苏省高层次创新创业人才引进计划“科技副总”等荣誉，多次指导学生参加电子设计大赛和机器人大赛并获奖。中国计算机学会(CCF)会员、江苏省人工智能模式识别专委会委员、江苏省人工智能机器学习专委会委员。E-mail: suntf@cumt.edu.cn,https://cs.cumt.edu.cn/info/1106/4441.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-02e80d8b74,左明成,人工智能系　智能科学与技术系,副教授,硕士生导师,智能感知与智能优化，在能源设备故障诊断、分布式XPU计算架构、矿山综合能源系统调度、煤与瓦斯突出预测,,mingcheng.zuo@cumt.edu.cn,"左明成，副教授、硕导，中国地质大学（武汉）直博，意大利博洛尼亚大学联合培养博士；现任中国仿真学会智能仿真优化与调度专业委员会委员，江苏省自动化学会智能优化与应用专委会委员，山东省人工智能学会优化调度与决策专委会委员，中文核心期刊《地质科技通报》、《南京理工大学学报（自然科学版）》青年编委，多个国际会议的WorkshopChair。
+研究方向为智能感知与智能优化，在能源设备故障诊断、分布式XPU计算架构、矿山综合能源系统调度、煤与瓦斯突出预测等方面主持国家自然科学基金青年项目、山东省自然科学基金创新联合基金重点项目、企业横向课题等10余项；在IEEETEVC、IEEETSMCS、IEEE TAI、中国科学：信息科学、中国安全科学学报等期刊/会议发表学术论文30余篇，其中ESI高被引论文1篇；获得授权发明专利3项，登记计算机软件著作权2项；获得全国计算机仿真大奖赛特等奖、中国自动化大会最佳论文奖、智能优化与调度学术会议优秀论文一等奖等各奖项近20项。
+个人主页：https://faculty.cumt.edu.cn/ZMC/zh_CN/index.htm
+电子邮箱：mingcheng.zuo@cumt.edu.cn",https://cs.cumt.edu.cn/info/1106/7180.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-25d2e4d550,李向群,人工智能系　智能科学与技术系,副教授,,智能信息处理、机器学习与数据挖掘,中国矿业大学计算机学院,lixq@cumt.edu.cn,"李向群，女，1973年10月出生，本科毕业于中国矿业大学计算机学院，博士，副教授。2018.1-2018.5 作为短期访问学者在美国肯塔基大学完成“英语语言及教学法”培训，2018.9-2019.8 赴英国布里斯托大学访学。
+主要从事智能信息处理、机器学习与数据挖掘等方面研究。出版专著1部，第一作者主编教材7部。自工作以来，曾两次获得校级优秀教学质量奖一等奖，三次获得“百佳本科教学教师奖”，曾获得“中国矿业大学最受欢迎的教师”、“十佳基础课教师”、“十佳青年教职工”、“教书育人先进个人”等荣誉称号。曾获得江苏省教学成果奖1项，全国煤炭行业教育教学成果奖1项，全国高等学校计算机教学成果奖1项。
+Email: lixq@cumt.edu.cn",https://cs.cumt.edu.cn/info/1106/4443.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-b069c4613a,李希希,人工智能系　智能科学与技术系,准聘副教授,博士生导师/硕士生导师,多媒体推荐，社会计算，自然行为分析与理解，社交网络分析，异常检测等,,xixil@cumt.edu.cn,"李希希，博士，准聘副教授。本硕博均就读于武汉大学，硕导陈震中教授，博导胡瑞敏教授，合作者王正教授。研究方向：多媒体推荐，社会计算，自然行为分析与理解，社交网络分析，异常检测等。近年来，以第一作者发表论文4篇，申请发明专利3项，参与国家自然科学基金联合基金重点项目3项，国家重点研发计划2项。曾获武汉大学一等奖学金，三好学生，优秀研究生，优秀毕业生等荣誉。Email：xixil@cumt.edu.cn
+学术论文：1. Xixi Li, Ruimin Hu, Zheng Wang, et al. Location Predicts You: Location Prediction via Bi-direction Speculation and Dual-level Association[C]. IJCAI, 2021: 529--536. (CCFA类国际会议) 2. Xixi Li, Ruimin Hu, Zheng Wang. Next-point-of interest recommendation based on joint mining of regularity and randomness[J]. Knowledge-Based Systems, 2022,258:110052.（中科院1区SCI，IF=8.139）3. Xixi Li, Ruimin Hu, Zheng Wang. Beyond fixed time and space: next POI recommendation via multi-grained context and correlation[J]. Neural Computing and Applications, 2022:1-14.（中科院2区SCI，IF=5.102）4. Xixi Li, Di Liu, Kao Zhang, et al. Layout-Driven Top-Down Saliency Detection for Webpage[C]. Pacific-Rim Conference on Multim",https://cs.cumt.edu.cn/info/1106/5333.htm,计算机科学与技术学院/人工智能学院官网,2023-09-06,2026-11-26T17:27:09
+cumt-teacher-4dfc225cd9,李江峰,人工智能系　智能科学与技术系,准聘副教授,硕士生导师,图信号处理衍生的结构化数据建模理论、微震信号时-空-频域分析牵引下的露天矿山边坡失稳预警、面向矿山生产的上下文协议驱动的大模型文本信息解译等,,jiangfeng.li@cumt.edu.cn,"李江峰，男，河北衡水人，1994 年3月，华北电力大学-英国思克莱德大学电气工程及其自动化双学位本科，英国思克莱德大学博士，准聘副教授，硕士生导师。
+研究方向：图信号处理衍生的结构化数据建模理论、微震信号时-空-频域分析牵引下的露天矿山边坡失稳预警、面向矿山生产的上下文协议驱动的大模型文本信息解译等。
+主持 /参与国家自然科学基金、国家重点研发计划政府间合作专项、欧盟“地平线2020”计划、英国工程与物理科学研究委员会（EPSRC）“繁荣伙伴关系”研究与创新计划等横纵向项目共10 余项；在 IEEE TGRS, TAI, A pplied Energy 等期刊共发表论文10 余篇。获得中国发明协会一等奖、指导学生获得第十三届全国高等学校（智能）采矿工程专业学生实践作品大赛一等奖等。
+Email: jiangfeng.li@cumt.edu.cn",https://cs.cumt.edu.cn/info/1106/7178.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-f93b272504,柳奉奇,人工智能系　智能科学与技术系,准聘副教授,,方向为视觉大模型、多模态生成、三维重建与补全等，在相关领域发表10多篇人工智能国际顶级会议和期刊论文，包括ICCV、ECCV、AAAI、MM、TVCG等,,liufengqi@cumt.edu.cn,"柳奉奇，男，1999年生，中国矿业大学准聘副教授。2026年3月获得上海交通大学博士学位，导师为国家杰出青年科学基金获得者马利庄教授；2020年6月获得中南大学学士学位。主要研究方向为视觉大模型、多模态生成、三维重建与补全等，在相关领域发表10多篇人工智能国际顶级会议和期刊论文，包括ICCV、ECCV、AAAI、MM、TVCG等。长期担任TPAMI、TNNLS、CVPR、ICCV、ECCV、AAAI等国际期刊和会议审稿人。参与国家自然科学基金面上项目2项，上海市经信委项目财联社星矿金融信息人工智能平台项目、上海交通大学-华为校企合作项目。
+个人邮箱：liufengqi@cumt.edu.cn
+代表性研究成果：
+[1] F. Liu, J. Gong, Q. Zhou, et al. CloudMix: Dual Mixup Consistency for Unpaired Point Cloud Completion. TVCG. 2025, 31(4): 2182–2195. (CCF-A期刊)
+[2] F. Liu, H. Wang, J. Gong, et al. Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation. ACM MM. 2024: 7027–7035. (CCF-A会议)
+[3] Y. Yang, F. Liu, Y. Lu, et al. SIGMAN: Scaling 3D Human Gaussian Generation with Millions of Assets. ICCV. 2025: 5122–5133. (CCF-A会议，共同一作)
+[4] H. Wang, F. Liu, Q. Zhou, et al. Continuous Piecewise-Affine Based Motion Model for Image Animation. AAAI. 2024: 5427–5435. (CCF-A会议，共同",https://cs.cumt.edu.cn/info/1106/7308.htm,计算机科学与技术学院/人工智能学院官网,2026-04-28,2026-11-26T17:27:09
+cumt-teacher-e552ad1eb2,王冠军,人工智能系　智能科学与技术系,副教授,,"本专业电子设计与机器人方面的教学科研工作，主持参与十余项国家（省）基金项目及教育部产学合作（育人）项目及各级教改项目，发表教学/科研论文20余篇,指导各级机器人竞赛项目获奖百余项，国家（省）级创新创业项目几十项",哈尔滨工程大学,,"王冠军，博士、副教授，1981年9月出生。毕业于哈尔滨工程大学。
+RoboCup Junior技术委员会委员、中国电子学会会员、江苏省人工智能学会会员、“全国应用型人才培养工程”创新创业导师、清华启迪创业导师、中国矿业大学创新创业导师、中国(工程)机器人竞赛优秀指导教师、全国集成电路创新创业竞赛优秀指导教师、机器人竞赛(社团)指导教师。曾获煤炭行业教育教学成果奖二等奖(高等教育)、中国矿业大学校级优秀教学成果奖一等奖、校青年教案比赛特等奖、校讲课比赛二等奖、中国矿业大学“百佳教师奖”、优秀共产党员、教书育人先进个人、毕业设计优秀指导教师、优秀班主任等荣誉称号。
+从事本专业电子设计与机器人方面的教学科研工作，主持参与十余项国家（省）基金项目及教育部产学合作（育人）项目及各级教改项目，发表教学/科研论文20余篇,指导各级机器人竞赛项目获奖百余项，国家（省）级创新创业项目几十项。",https://cs.cumt.edu.cn/info/1106/4496.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-eb69eb68b2,祝汉城,人工智能系　智能科学与技术系,副教授,硕士生导师,博士后,,zhuhancheng@cumt.edu.cn,"祝汉城，男，副教授，硕士生导师。2020 年12 月获得中国矿业大学博士学位，导师为国家级青年人才获得者李雷达教授；2021 年1 月至2023 年4 月在中国矿业大学计算机科学与技术学院从事博士后研究工作。
+研究方向为图像美学质量评估和多媒体情感计算等；发表学术论文40 余篇（包括 CCF 推荐 A / B 类期刊和会议10 余篇），其中以第一或通信作者在 IEEE T-IP ，T-CYB ，T-MM ，T-CSVT 和 CVPR 、ACM MM 等国内外高质量学术期刊和国际会议上发表学术论文10 余篇；其中有两篇论文入选 ESI 1% 高被引论文。Google 学术引用1150 余次；分别主持国家自然科学基金、江苏省自然科学基金和中国博士后面上项目各一项；参与多项国家自然科学基金和江苏省自然科学基金；申请国家发明专利10 件，其中4 项授权。
+中国图象图形学学会（CSIG ）情感计算专委会委员，中国计算机学会（CCF ）多媒体专委会会员，担任国际 SCI 期刊 Frontiers in Neuroscience 和 Applied Sciences 的客座编辑，担任 IEEE T-IP 、T-NNLS 、T-MM 、T-CSVT 和 ACM MM 等国际期刊的审稿人。
+联系方式：zhuhancheng@cumt.edu.cn
+主持科研项目：
+1. 国家自然科学基金青年项目，项目号：62101555 ，执行期：2022.01-2024.12.
+2. 江苏省自然科学基金青年项目，项目号：BK20210488 ，执行期：2021.07-2024.06.
+3. 中国博士后科学基金面上资助，项目号：2022M713379 ，执行期：2022.07-2024.06.
+4. 中央高校基本科研业务费项目，项目号：2021QN1071 ，执行期：2021.01-2022.12.
+代表性学术论文：
+Hancheng Zhu, Zhiwen Shao, Yong Zhou, Guangcheng Wang, Pengfei Chen, and Leida Li. “Personalize",https://cs.cumt.edu.cn/info/1106/5017.htm,计算机科学与技术学院/人工智能学院官网,2023-04-14,2026-11-26T17:27:09
+cumt-teacher-9c838b5ec6,赵作鹏,人工智能系　智能科学与技术系,副教授,硕士生导师,大模型与智能体、模型协同、遥感图文检索、多模态遥感图像描述与生成,北京大学,4375@cumt.edu.cn,"赵作鹏，博士毕业于北京大学，副教授，硕士生导师， ，中国计算机学会（CCF ）高级会员，江苏省第十五批 “六大人才高峰”高层次人才，江苏省省级应急管理专家库成员，江苏省交通运输安全生产专家库成员，北京大学优秀校友。
+目前主要从事大模型与智能体、模型协同、遥感图文检索、多模态遥感图像描述与生成等方面的研究。在国内外学术期刊上发表学术论文50 余篇，其中以第一作者或通讯作者在 CCF 推荐的期刊及国际学术会议上发表论文20 余篇，出版专著1 部，获得授权国家发明专利40 余件。
+主持或作为主要参加人员承担了国家重大科技专项课题、国家自然科学基金面上项目、江苏省自然科学基金、徐州市重点研发项目、中央高校青年基金、江苏省交通厅科研课题等众多纵向科研项目。在煤矿、交通与医疗智能化、遥感大模型等领域，每年均承担横向科研项目。获得了江苏省科学技术奖三等奖1 项，国家安全生产监督总局第五届科技进步奖二等奖2 项，中国煤炭工业协会科技进步奖二等奖3 项。
+负责的课题组（EOC 人工智能实验室）深入践行 “沉浸科研、追求卓越”的科研文化，以高水平的科研成果、高标准的项目实施以及高层次的学术竞赛为抓手，着力培养更多具有国际视野和创新能力的 AI 人才。实验室通过提供较高的助研津贴、先进的算力科研设备和实验环境，以及高水平成果奖励，为研究生们创造了优越的科研条件。同时，实验室还积极鼓励研究生们参与各类学术竞赛和科研项目，通过实践锻炼不断提升同学们的科研能力和创新能力。
+最近三年指导的硕士研究生，有8 名研究生获得国家奖学金，3 名获研究生评校级优秀硕士论文，2 名研究生被评为优秀毕业生。科技竞赛方面，指导研究生获得了第十八届和第十九届 “挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛国赛一等奖。
+自从2012 年开始指导研究生，目前已经培养50 余名，毕业研究生去向有头部人工智能企业（如科大讯飞）、高职院校（如徐州建院、徐州财校、徐州经贸、阜阳理工、南京职院等）、央企（如国家电网、电信和移动公司等）、政府、银行、军队文职等不同行业。部分硕士研究生毕业后到北大、南大、复旦等双一流院校继",https://cs.cumt.edu.cn/info/1106/4442.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-c31a91956b,赵佳琦,人工智能系　智能科学与技术系,副教授,硕士生导师,人工智能与计算机视觉方面研究,西安电子科技大学,jiaqizhao@cumt.edu.cn,"赵佳琦，博士、副教授、硕士生导师。2017 年毕业于西安电子科技大学。中国计算机学会 (CCF) 高级会员，中国图形图像学会高级会员 (CSIG) 、中国人工智能学会 (CAAI) 会员、电气与电子工程师协会 (IEEE) 会员、江苏省计算机学会 (JSCS) 会员、江苏省人工智能学会 (JSAI) 会员。CCF 多媒体专委会委员、CCF 人工智能与模式识别专委会通讯委员、CAAI 机器学习专业委员会通讯委员、CSIG 机器视觉专业委员会委员。CCF-B 类期刊 ACM Transactions on Multimedia Computing Communications and Applications 编委。
+主要从事人工智能与计算机视觉方面研究。以第一 / 通信作者在 CVPR 、AAAI 、IJCAI 、IEEE TMM 、IEEE TGRS 、IEEE TCSVT 、自动化学报、电子学报等国内外重要会议和期刊发表论文40 余篇，其中 ESI 高被引2 篇，谷歌学术引用4100 余次；第一发明人授权发明专利10 余项；出版专著1 部。讲授《最优化理论与方法》（本科生）、《机器学习》（研究生）等课程。指导多项国家级、省级和校级大学生创新创业训练项目，并带领学生在 “ 中国软件杯 ” 、 “ 中国计算机设计大赛 ” 和 “ 全国大学生智能车竞赛 ” 等赛事中取得佳绩。
+代表性学术论文
+[1]Jiaqi Zhao, Jianpeng Xie, Yong Zhou*, Wen-Liang Du, Hancheng Zhu, Rui Yao. Causal Decoupling Domain Generalization for Remote Sensing Change Detection[C]. AAAI 2026. (CCF-A)
+[2]Jiaqi Zhao, Jie Luo, Yong Zhou*, Wen-Liang Du, Xixi Li, Rui Yao. Unified Representation Causal Prompt Distillation f",https://cs.cumt.edu.cn/info/1106/4444.htm,计算机科学与技术学院/人工智能学院官网,2012-10-02,2026-11-26T17:27:09
+cumt-teacher-9948bd512f,邱远航,人工智能系　智能科学与技术系,准聘副高,,复杂数据表征、深度学习与建模、工业人工智能、矿山冲击地压智能监测与预警等研究,新西兰Massey University计算机科学专业（CSC公派）,yuanhang.qiu@cumt.edu.cn,"邱远航，中共党员，博士/博士后，准聘副教授。博士毕业于新西兰Massey University计算机科学专业（CSC公派）。入选江苏省卓越博士后计划（2023），获中国矿业大学优秀博士后称号（2024）。从事复杂数据表征、深度学习与建模、工业人工智能、矿山冲击地压智能监测与预警等研究。
+主持国家自然科学基金青年项目、江苏省基础研究计划青年项目、江苏省卓越博士后计划项目、中央高校基本科研业务费青年基金项目；参与深地国家科技重大专项、科技创新2030“新一代人工智能”重大项目及企业“揭榜挂帅”项目。相关成果发表于Knowledge-Based Systems、Applied Soft Computing、ICASSP等国际权威期刊与领域内顶级会议。担任Information Sciences、Neurocomputing、ICASSP等期刊与会议审稿人。
+诚挚欢迎有科研热情、对AI+感兴趣的优秀学子加入研究团队！
+个人主页：http://faculty.cumt.edu.cn/qiuyh/zh_CN/index.htm
+工作邮箱：yuanhang.qiu@cumt.edu.cn",https://cs.cumt.edu.cn/info/1106/7182.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-58333ff4cc,郭昌放,人工智能系　智能科学与技术系,副教授,硕士生导师,智慧矿山、矿业大数据及挖掘应用、矿山地质环境监测与安全开采、矿业信息化建设与矿山智能开采方面的科研工作,,6633@cumt.edu.cn,"郭昌放，男，1991年8月出生。中共党员，工学博士、副教授、硕士生导师，入选山西省煤炭学会“千人智库”。长期从事智慧矿山、矿业大数据及挖掘应用、矿山地质环境监测与安全开采、矿业信息化建设与矿山智能开采方面的科研工作。作为项目负责人主持国家自然科学基金青年基金、江苏省基础研究计划（自然科学基金） - 青年基金项目、校企联合攻关项目等各类科技项目共10 余项。发表学术论文20 余篇，专利4 项，软著2 项，省部级以上科技奖2 项。
+个人主页：https://faculty.cumt.edu.cn/gcf/zh_CN/index.htm
+邮箱：6633@cumt.edu.cn 联系方式：[已脱敏]",https://cs.cumt.edu.cn/info/1106/7181.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-8b6134d67f,韩日东,人工智能系　智能科学与技术系,准聘副教授,,自然语言处理领域的相关任务，包括信息抽取、方面级（Aspect-based）情感分析、多跳知识图谱问答等,吉林大学,hanrd@cumt.edu.cn,"韩日东，男，博士，准聘副教授，本科、硕博连读均毕业于吉林大学，曾多次获得吉林大学一等奖学金、优秀学生、优秀研究生等荣誉。研究方向是自然语言处理领域的相关任务，包括信息抽取、方面级（Aspect-based）情感分析、多跳知识图谱问答等。撰写/发表学术论文5篇，申请国家发明专利2项，参与国家自然科学基金面上项目1项、青年科学基金1项。目前担任Neural Networks、Information Processing & Management、Knowledge and Information Systems、Knowledge-Based Systems、Engineering Applications of Artificial Intelligence、Neurocomputing等期刊审稿人。
+Email：hanrd@cumt.edu.cn",https://cs.cumt.edu.cn/info/1106/5981.htm,计算机科学与技术学院/人工智能学院官网,2024-09-20,2026-11-26T17:27:09
+cumt-teacher-9cecdf76f2,马振国,人工智能系　智能科学与技术系,准聘副教授,,边缘智能网络、联邦学习等领域的研究,,_zgma@cumt.edu.cn,"马振国，男，中国矿业大学计算机学院准聘副教授。2023 年于中国科学技术大学计算机学院获工学博士学位，师从徐宏力教授，主要从事边缘智能网络、联邦学习等领域的研究。
+近年来，围绕边缘智能网络资源优化与联邦学习训练性能优化等核心问题，在高质量期刊 / 会议上发表学术论文9 篇，其中一作 / 通讯论文5 篇（3 篇 CCF A ，1 篇中科院一区） ，并有1 篇文章入选 ESI 高被引论文；申请发明专利5 项，其中2 项已授权。
+参与国家级科研项目3 项，包括国家自然科学基金重点项目2 项，科技部重点研发计划课题1 项。
+联系方式：cs _zgma@cumt.edu.cn
+个人主页：http://faculty.cumt.edu.cn/cs_zgma/zh_CN/index.htm
+代表性论著 （* 通讯作者） ：
+Zhenguo Ma , * Huaqing Tu, Li Zhou, *Pengli Ji, Xiaoran Yan, Hongli Xu, Zhiyuan Wang, Suo Chen . Hier-FUN: Hierarchical Federated Learning and Unlearning in Heterogeneous Edge Computing [J]. IEEE Internet of Things Journal, 2024. ( 中科院一区 )
+Yang Xu, * Zhenguo Ma , Hongli Xu, Suo Chen, Jianchun Liu, Yinxing Xue . FedLC: Accelerating Asynchronous Federated Learning in Edge Computing [J]. IEEE Transactions on Mobile Computing, , 2023, 23(5): 5327-5343. (CCF A)
+Suo Chen , * Zhenguo Ma , Zhiyuan Wang . Accelerating Hierarchical Federated Le",https://cs.cumt.edu.cn/info/1106/6243.htm,计算机科学与技术学院/人工智能学院官网,2025-03-06,2026-11-26T17:27:09
+cumt-teacher-4a622e439e,Muhammad Shamrooz Aslam,人工智能系　智能科学与技术系,讲师,,,,shamroz_aslam@cumt.edu.cn,"Muhammad Shamrooz Aslam received the B.Sc. and M.S. degrees in Electronics and Electrical Engineering from COMSATS University, Abbottabad and Attock campus, Pakistan, in 2009 and 2013, respectively. He completed his Ph.D. degree in control science and engineering with the School of Automation, Nanjing University of Science and Technology, China in 2019. He was a Lecturer with the Department of Electrical Engineering, COMSATS University , Attock campus, from 2010 to 2015. He was visiting Lecturers at Edinburgh Napier University , Scotland from March 2020 to February 2021 and taught Industrial Electronics, PLC with practical applications and Data Communication and Networking subjects. In addition, he was visiting Lecturer at Southern Cross University , Australia from March 2020 to February 2021 and taught Data communication networking and Signal Processing subjects. He was Associate Profes",https://cs.cumt.edu.cn/info/1107/7185.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-7eebbf2a18,张瑾,人工智能系　智能科学与技术系,讲师,,,,,,https://cs.cumt.edu.cn/info/1107/4561.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-df9572db32,李仲年,人工智能系　智能科学与技术系,讲师,硕士生导师,机器学习与医学影像处理，包括弱监督学习与图像重建,,zhongnianli@cumt.edu.cn,"李仲年，博士，讲师，硕士生导师。2021年11月于南京航空航天大学计算机科学与技术专业获得博士学位，师从张道强教授，同年进入中国矿业大学计算机学院，加入许新征教授课题组。
+研究方向为机器学习与医学影像处理，包括弱监督学习与图像重建。近年来，在AAAI、ACMMM、SDM、ICMR、KBS等CCF推荐期刊/会议发表学术论文20余篇，申请发明专利2项。目前担任KDD、ACMMM等期刊会议审稿人。分别主持国家自然科学基金与江苏省自然科学基金各一项。
+代表性学术论文
+zhongnian Li; Meng Wei; peng ying; Tongfeng Sun; Xinzheng Xu; Learning from Concealed Labels, ACM MM, 2024. (CCF A)
+Zhongnian Li; Tao Zhang; Peng Wan; Daoqiang Zhang ; SEGAN: Structure-Enhanced Generative Adversarial Network for Compressed Sensing MRI Reconstruction, AAAI Conference on ArtificialIntelligence (AAAI), Honolulu, USA, 2019-1-27至2019-2-1. (CCF A)
+Zhongnian Li; Tao Zhang; Ruoyu Chen; Daoqiang Zhang ; MRI Measurement Matrix Learning via Correlation Reweighting, ACM Multimedia (ACM MM), Seattle, United States, 2020-10-12至2020-10-16. (CCF A)
+Zhongnian Li; Peng Ying; Meng Wei; Tongfeng Sun; Xinzheng Xu; Prompt Expending for Single Positive Multi-Label L",https://cs.cumt.edu.cn/info/1107/4571.htm,计算机科学与技术学院/人工智能学院官网,2022-08-16,2026-11-26T17:27:09
+cumt-teacher-d45e58f86d,杜文亮,人工智能系　智能科学与技术系,讲师,,遥感图像处理、人工智能、机器学习、模式识别、医学图像处理,澳门科技大学,,"杜文亮，博士、讲师，1989年2月出生。毕业于澳门科技大学。
+主要从事遥感图像处理、人工智能、机器学习、模式识别、医学图像处理等方面理论与应用研究。主持国家自然科学基金青年基金1项、月球与行星国家重点实验室开放课题1项，参加国家自然科学基金面上项目1项、澳门特别行政区科学技术发展基金项目3项等。近年来，以第一发明人授权中国发明专利4项、澳大利亚发明专利1项，以第一作者发表期刊、会议论文10篇，其中被SCI检索4篇。
+曾获澳门特别行政区研究生科技研发奖。
+代表性成果：
+1. Wen-Liang Du and Xiao-Lin Tian, “An Automatic Evaluation Platform for Feature Matching Algorithms Based on an Orbital Optical Pushbroom Stereo Imaging System,” IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 3, pp. 359-363, March 2018.
+2. Wen-Liang Du and Xiao-Lin Tian, “An Automatic Image Registration Evaluation Model on Dense Feature Points by Pinhole Camera Simulation,” IEEE International Conference on in Image Processing (ICIP), 2017.",https://cs.cumt.edu.cn/info/1107/4497.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-257cd62df2,楚浩宇,人工智能系　智能科学与技术系,讲师,,方向包括深度神经网络设计、计算机视觉、科学机器学习等，发表国际人工智能顶级会议（CCFA类）论文2篇、SCI期刊论文3篇，主持中央高校基本科研项目1项,,6784@cumt.edu.cn,"楚浩宇，讲师，安徽蒙城人。2024 年9 月于北京交通大学信息科学研究所获得工学博士学位，师从韦世奎教授。2023 年3 月至2024 年4 月赴日本大阪大学公派访学一年，师从 Yuto Miyatake 与 Furihata Daisuke 教授。
+主要研究方向包括深度神经网络设计、计算机视觉、科学机器学习等，发表国际人工智能顶级会议（CCF A 类）论文2 篇、SCI 期刊论文3 篇，主持中央高校基本科研项目1 项。
+代表性成果：
+Haoyu Chu , Yuto Miyatake, Wenjun Cui, Shikui Wei and Daisuke Furihata. Structure-preserving physics-informed neural networks with energy or Lyapunov structure[C]. Proceedings of the International Joint Conference on Artificial Intelligence. 2024: 3872-3880. （IJCAI-24 ，CCF A 类会议论文）
+Haoyu Chu , Shikui Wei, Ting Liu, Yao Zhao, and Yuto Miyatake. Lyapunov-stable deep equilibrium models[C]. Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(10): 11615-11623. （AAAI-24 ，CCF A 类会议论文）
+Haoyu Chu , Shikui Wei, Shunli Zhang, and Yao Zhao. TrapezoidalNet: A new network architecture inspired from the numerical solution of ordinary differential equations[J]. Alexan",https://cs.cumt.edu.cn/info/1107/7186.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-2f098b6985,赵迪斐,人工智能系　智能科学与技术系,讲师,硕士生导师,非常规能源精准勘探与预测,,difei.zhao@cumt.edu.cn,"赵迪斐，男，山东淄博人，1991 年3 月，中国矿业大学本博，昆士兰大学公派联合培养，讲师，硕士生导师，第16-17批江苏省科技镇长团徐州市数字经济产业团成员。
+研究方向：非常规能源精准勘探与预测；非常规油气地质；高精度微观储集空间探测表征；地质勘探预测中的学科交叉与创新应用技术研究等；数字经济创新创业培育孵化；文化遗产数字化保护。
+先后主持参与江苏省自然科学基金青年基金、刘宝珺地学青年基金、973计划子课题、国家自然科学基金、王宽诚教育基金会资助项目等横纵向技术项目10余项，联合主持省教育科学“十四五”规划专项课题青年专项等高教研究课题，发表SCI/EI/中文核心论文60余篇。2024年度中国知网高被引学者、中国知网最具影响力学者、知网高被引学者TOP1%（地质资源与地质工程），入选中华环保基金会/中国能源学会/北京能源与环境学会“能源与环境青年人才培养计划”、中国矿业大学“启航计划”青年教师培养对象，个人及指导学生团队在省市级、国家级科创双创竞赛获包括团中央青发部科技创新 “攀登计划”、“挑战杯”全国金奖、省企业发展工程协会科学技术奖、中国创翼“创翼之星”、全国颠覆性创新技术大赛“五星优胜”等在内的奖励80余项，作为成员获中国煤炭教育协会全国煤炭行业教学成果奖一等奖1 项、中国矿业大学教学成果奖一等奖1 项，部分事迹获新华日报、学习强国、扬子晚报、江苏省台等媒体平台的报道30余次。
+Email: difei.zhao@cumt.edu.cn",https://cs.cumt.edu.cn/info/1107/7184.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-c19bdb857a,刘进,人工智能系　智能科学与技术系,行健博士后,,视觉问答分布外泛化：主要包括多模态信息融合、自监督学习、知识图谱补全方法等,,,"刘进，男，山东潍坊人，1995 年11 月，青岛大学本科，山东大学硕博，中国矿业大学博士后。
+研究方向：视觉问答分布外泛化：主要包括多模态信息融合、自监督学习、知识图谱补全方法等；机器人操作：主要包括指令操作、自主感知、持续学习等。
+目前参与国家自然科学基金、国家重点研发计划等横纵向项目共4 项；在 TIE 、PR 等重要期刊会议共发表论文20 余篇。获山东大学校长奖学金、博士国家奖学金、优秀毕业生、山东省物联网协会科技进步二等奖、山东省城市更新学会科学技术一等奖、研究生电子设计竞赛华北赛区一等奖、 “互联网+”创新创业大赛省金奖等多项奖励和荣誉。
+Email: tbh657 @cumt.edu.cn",https://cs.cumt.edu.cn/info/1106/7183.htm,计算机科学与技术学院/人工智能学院官网,2025-08-28,2026-11-26T17:27:09
+cumt-teacher-e5065d6cd6,喻秋,人工智能系　智能科学与技术系,师资博士后,,长期从事新一代人工智能技术与土木工程索膜结构损伤识别领域的交叉方向研究,,QiuYu_09@163.com,"喻秋，女，江苏泗阳人，1994 年9 月，中国矿业大学博士后，助理研究员。
+研究方向：长期从事新一代人工智能技术与土木工程索膜结构损伤识别领域的交叉方向研究。包括：人工智能深度随机配置机器学习、人工智能算法开发与应用、索膜结构损伤识别和全寿命健康监测。
+目前在 Steel and Composite Structures、Measurement、Materials Letters、The International Journal of Advanced Manufacturing Technology、Engineering Fracture Mechanics、应用力学学报等国内外高水平期刊上发表学术论文15余篇，申请发明/GF专利共计10余件，已授权4件。主持并完成江苏建筑节能与建造技术协同创新中心青年博士基金计划项目1项、江苏省研究生科研创新计划1项、中国矿业大学 “未来科学家计划”1项，参与指导国家级和省级大学生创新创业训练计划项目各1项。获“江苏省研究生‘岩土工程与结构防灾’学术创新论坛”专题报告二等奖。
+Email: QiuYu_09@163.com",https://cs.cumt.edu.cn/info/1147/7187.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-f9e4a75cb7,张奎元,人工智能系　智能科学与技术系,师资博士后,,矿山智能感知、多模融合定位与自主导航等,中国矿业大学,zhangky@cumt.edu.cn,张奎元，男，博士，毕业于中国矿业大学，曾公派至比利时根特大学进行博士联合培养，现中国矿业大学计算机科学与技术学院/人工智能学院师资博士后。主要的研究方向为矿山智能感知、多模融合定位与自主导航等。近年来，在电子学报、INFOCOM、GLOBECOM、TWC、TIM等国内外会议期刊发表三类高质量论文10余篇，其中以第一作者/通讯作者发表学术论文6篇，授权中国发明专利2项，参与国家重点研发计划课题1项、国家自然科学基金面上项目2项。Email：zhangky@cumt.edu.cn,https://cs.cumt.edu.cn/info/1147/7192.htm,计算机科学与技术学院/人工智能学院官网,2025-09-02,2026-11-26T17:27:09
+cumt-teacher-98dcaebde3,晏秀峰,人工智能系　智能科学与技术系,师资博士后,,加入王殿辉教授随机配置网络团队，主要包括随机神经网络逼近理论、随机神经网络网络收敛性质及算法稳定性、递归最小二乘与持续学习,,,"晏秀峰，男，重庆人，1989 年12 月，西南财经大学本科，萨塞克斯大学硕博，师资博士后。
+研究方向：加入王殿辉教授随机配置网络团队，主要包括随机神经网络逼近理论、随机神经网络网络收敛性质及算法稳定性、递归最小二乘与持续学习。
+目前与王殿辉教授与国际知名专家 Ivan Tyukin合作多篇论文。
+Email: t bh326 @cumt.edu.cn",https://cs.cumt.edu.cn/info/1147/7189.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-13647afb44,汤洪伟,人工智能系　智能科学与技术系,师资博士后,,机器人无线传感网：主要包括煤矿救援机器人无线传感网架构设计、灾后重构策略、精确定位方法、灾情感知方法等,,tanghongwei@cumt.edu.cn,"汤洪伟，男，贵州金沙人，1996 年10 月，中国矿业大学本硕博，中国矿业大学博士后。
+研究方向：机器人无线传感网：主要包括煤矿救援机器人无线传感网架构设计、灾后重构策略、精确定位方法、灾情感知方法等；机器人系统设计：主要包括煤矿巡检机器人、救援机器人、无人机等。
+以第一作者发表学术论文6 篇、第一发明人授权国内外发明专利4 件；主持江苏省研究生科研与实践创新计划项目1 项；参与国家自然科学基金项目3 项、GF 科技项目3 项、横向课题2 项。
+Email ：tanghongwei@cumt.edu.cn",https://cs.cumt.edu.cn/info/1147/7191.htm,计算机科学与技术学院/人工智能学院官网,2025-09-02,2026-11-26T17:27:09
+cumt-teacher-563dcf4259,翟煜,人工智能系　智能科学与技术系,师资博士后,,基于强化学习的机器人导航：主要包括运动意图推理、安全控制器设计、场景表征学习、强化学习在导航场景下的实际部署等方法,,Zhaiyu@cumt.edu.cn,"翟煜，男，安徽淮南人，1996 年10 月，安徽理工大学本科，中国矿业大学硕博，中国矿业大学博士后。
+研究方向：基于强化学习的机器人导航：主要包括运动意图推理、安全控制器设计、场景表征学习、强化学习在导航场景下的实际部署等方法。
+发表学术论文9篇，其中以第一作者身份在机器人领域国际顶会IEEE ICRA、国内权威期刊《煤炭学报》、智能交通领域顶级期刊IEEE T-ITS等发表多篇研究论文；授权国内发明专利1项，主持省部级科研项目3项，包括江苏省研究生科研创新计划项目和中央高校基本科研业务费专项资金项目。
+Email: Zhaiyu@cumt.edu.cn",https://cs.cumt.edu.cn/info/1147/7190.htm,计算机科学与技术学院/人工智能学院官网,2025-08-28,2026-11-26T17:27:09
+cumt-teacher-511b080429,许轩,人工智能系　智能科学与技术系,师资博士后,,煤炭/矿产资源智能分选过程建模、气固流态化分选理论等研究，研究成果发表学术论文20余篇，在MineralProcessingandExtractiveMetallurgyReview，AdvancedPowderTechnology和Che,,sz@cumt.edu.cn,"许轩，男，博士，师资博士后，中国矿业大学优秀毕业生获得者。
+从事煤炭 / 矿产资源智能分选过程建模、气固流态化分选理论等研究，研究成果发表学术论文20 余篇，在 Mineral Processing and Extractive Metallurgy Review ，Advanced Powder Technology 和 Chemical Engineering Research and Design 等期刊以第一 / 通讯作者发表 SCI 学术论文11 篇，授权发明专利5 件，并获教育部科技进步一等奖1 项。
+以子课题负责人身份主持了国家科技重大专项1 项、新疆维吾尔自治区重大科技专项1 项，以及中国博士后科学基金面上项目1 项，参与国家自然科学基金-重点国际（地区）合作研究项目、国家自然科学基金面上项目、江苏省杰出青年基金项目等。
+Email: xuxuan sz@cumt.edu.cn",https://cs.cumt.edu.cn/info/1147/7188.htm,计算机科学与技术学院/人工智能学院官网,2024-12-26,2026-11-26T17:27:09
+cumt-teacher-bd5911665b,郑思文,人工智能系　智能科学与技术系,师资博士后,,方向为矿山灾害智能防治,中国矿业大学,zheng5iwen@outlook.com,"郑思文，男，辽宁朝阳人，1996年8月，毕业于中国矿业大学，现为计算机科学与技术学院/人工智能学院师资博士后。主要研究方向为矿山灾害智能防治。在煤炭学报、Natural Hazards等国内外高水平期刊发表论文4篇；参与国家自然科学基金面上项目3项；获中国职业安全健康协会科学技术一等奖1项。
+Email：zheng5iwen@outlook.com",https://cs.cumt.edu.cn/info/1147/7193.htm,计算机科学与技术学院/人工智能学院官网,2025-09-02,2026-11-26T17:27:09
+cumt-teacher-b306c44b85,刘兵,数据科学与工程系,教授,博士生导师,】计算机视觉、具身智能、矿山智能化,,,"刘兵，男，博士、教授、博士生导师，中科院空天信息创新研究院博士后，美国北卡罗来纳大学教堂山分校国家公派访问学者，校级优秀青年骨干教师。
+【研究方向】 计算机视觉、具身智能、矿山智能化等理论与应用。
+【科研与教学 】
+主持国家自然科学基金项目2 项（面上项目1 项，青年项目1 项） ，参加国家自然科学基金面上项目3 项，出版专著2 部，在国内外重要学术期刊、会议上发表学术论文50 余篇：包括 CVPR, IJCAI, AAAI, IEEE TMM, IEEE TCSVT, PR 等。受邀为 CVPR 、ICCV 、ECCV 、NeurIPS 、TIP 、TMM 、TCSVT 等多个国际高水平期刊及会议审稿。第一发明人授权发明专利6 项。承担 《数据结构》、 《编译技术》、《云计算与大数据技术》等多门研究生和本科生课程教学，参编江苏省高等学校重点教材《编译原理及实现》，《编译技术》课程获评校级一流本科课程。指导研究生获国家奖学金、中国矿业大学优秀硕士学位论文。
+【学术奖励】
+获江苏省科学技术二等奖1 项、中国煤炭工业协会科学技术奖二等奖1 项、中国安全生产协会安全科技进步奖一等奖1 项。
+【代表性论文】 * 通讯作者
+近年来，以第一作者在国外期刊 IEEE TCSVT （IF:9.8 ）首次提出零样本图像描述持续学习框架，以共同第一作者在 CCF A 类顶级会议 CVPR 发表论文 “Show, Deconfound and Tell: Image Captioning with Causal Inference” ，被 TPAMI 、CVPR 、TIP 、TMM 、ECCV 、PR 等高水平期刊和会议论文引用63 次，作为学院首篇 CVPR 论文获矿大官网主页报道。以第一作者在 ACM TOMM 发表论文2 篇（JCR Q1 ，CCF B ）、第一作者在《电子学报》发表论文2 篇、第一作者在 ICME 国际会议发表论文1 篇 (CCF B) 、第一和通讯作者在 Knowledge-based Systems 期刊发表论文2 篇（JCR 一区、中科院一区 TOP 期刊 , ",https://cs.cumt.edu.cn/info/1102/7169.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-78f3370a3c,闫秋艳,数据科学与工程系,教授,,方向：（1）智慧教育方向：基于图的知识追踪及认知诊断、教育大模型构建及推理计算（2）数据科学与知识工程方向：垂域知识图谱与大模型、数据治理与知识质量、数据系统工程（包括数据存储、计算平台、数据管道构建等）（3）数据库方向：面向大数据的智能索,中国矿业大学计算机科学与技术学院,yanqy@cumt.edu.cn,"闫秋艳，女，1978年8月出生。毕业于中国矿业大学计算机科学与技术学院。教授，博士，博（硕）士生导师。2017年入选江苏省科协“青年科技人才托举工程”。2016.1-2017.1赴澳大利亚新南威尔士大学学术访问。主要研究方向：
+（1）智慧教育方向：基于图的知识追踪及认知诊断、教育大模型构建及推理计算
+（2）数据科学与知识工程方向：垂域知识图谱与大模型、数据治理与知识质量、数据系统工程（包括数据存储、计算平台、数据管道构建等）
+（3）数据库方向：面向大数据的智能索引技术、向量数据库
+主持国家自然基金面上项目2项、江苏省青年基金1项、中国矿业大学青年基金2项。参与国家大型仪器项目1项，国家自然基金重点项目1项、面上项目2项、国家博士点基金2项，横向课题若干项。出版专著1部。作为核心成员2017年获得高等学校科学研究优秀成果奖（科技进步2等奖）,2011年获得中国煤炭工业协会科学技术二等奖。
+现任中国计算机学会数据库专委会（CCF-TCDB）专委，江苏省智能系统与应用专委会（JSAI）委员，美国计算机协会(ACM)会员、IEEE计算机学会会员。担任《IEEE Transactions on Knowledge and Data Engineering》《Knowledge -based Systems》《电子学报》《计算机学报》等期刊的审稿专家。
+讲授《大数据存储与管理》和《数据库原理》本科课程和《大数据分析与数据挖掘》研究生课程。主持江苏省一流课程《数据库原理》，主编江苏省十四五、十三五重点规划教材各1部，主持省、校级教改课题5 项，获得校级教学成果奖二等奖3项，获得中国矿业大学“百佳本科教师”称号多次。指导多项国家级、省级大学生创新创业训练项目，指导学生参加2025年全国大学生计算机系统能力大赛-数据库管理系统设计赛获全国三等奖，第八届 “中国软件杯”大学生软件设计大赛获全国二等奖。
+Email:yanqy@cumt.edu.cn",https://cs.cumt.edu.cn/info/1102/4448.htm,计算机科学与技术学院/人工智能学院官网,2016-07-05,2026-11-26T17:27:09
+cumt-teacher-75f5cd172e,陈朋朋,数据科学与工程系,教授,博士生导师,物联网、大数据建模以及矿山智能信息处理,中国海洋大学,chenp@cumt.edu.cn,"陈朋朋，男，1983年出生。毕业于中国海洋大学，教授，博士生导师，入选江苏省科协“青年科技人才托举工程”，江苏省杰出青年基金获得者。曾公派在美国明尼苏达大学-双城大学进行博士联合培养。
+从事物联网、大数据建模以及矿山智能信息处理等方面研究，近年来先后主持国家自然科学基金面上项目、国家自然科学青年基金、江苏省产学研前瞻性联合研究项目、中国博士后基金、国家海洋局开放基金等多项课题，荣获教育部科技进步二等奖1项（位次2）、中国专利优秀奖1项（位次2）、中国煤炭工业科技进步二等奖2项，在国内外重要学术期刊上发表学术论文20余篇，出版专著1部，获2016中国物联网学术会议（CWSN）优秀论文奖、2017中国物联网学术会议（CWSN）最佳论文奖。
+现为美国计算机协会(ACM)会员、IEEE计算机学会会员、中国计算机学会(CCF)高级会员、江苏省人工智能学会会员。担任《IEEE Transactions on instrumentation and measurement》、《Journal of Network and Computer Applications》、《IEEE Sensors》、电子学报等知名期刊审稿专家。
+近年来主持2项中国矿业大学教改课题，先后2次荣获中国矿业大学“百佳本科教师”称号，2次荣获中国矿业大学“本科生优秀毕业设计指导教师”称号，荣获中国矿业大学“十佳青年教职工”、“促进就业先进个人”等称号，指导国家级、省级、校级等多项创新创业项目。
+Email: chenp@cumt.edu.cn",https://cs.cumt.edu.cn/info/1102/4446.htm,计算机科学与技术学院/人工智能学院官网,2017-05-09,2026-11-26T17:27:09
+cumt-teacher-dabcfa1dca,佟毓来,数据科学与工程系,准聘副教授,,方向为云数据管理，从事面向云数据湖、数据仓库的智能索引、任务调度以及缓存管理等技术的设计与优化,华中科技大学,yl_t@cumt.edu.cn,"佟毓来，男，计算机系统结构工学博士，毕业于华中科技大学。
+主要研究方向为云数据管理，从事面向云数据湖、数据仓库的智能索引、任务调度以及缓存管理等技术的设计与优化。以第一作者在VLDB、ICCD等计算机系统结构国际会议、期刊发表3篇论文，并申请4项中国国家发明专利。曾参与国家自然科学基金重点项目、国家自然科学基金面上项目。在华为云计算公司实习期间获华为云创新新星奖，在华中科技大学就读期间获知行优秀研究生奖学金、自强奖奖学金等奖项。
+邮箱：yl_t@cumt.edu.cn",https://cs.cumt.edu.cn/info/1103/6033.htm,计算机科学与技术学院/人工智能学院官网,2024-10-17,2026-11-26T17:27:09
+cumt-teacher-1b5ef3a37d,徐慧,数据科学与工程系,副教授,硕士生导师,人工智能、机器学习、推荐系统,中国矿业大学,,"徐慧，博士、副教授、硕士生导师，1980年6月出生。毕业于中国矿业大学。
+主要从事人工智能、机器学习、推荐系统等方面理论与应用研究。主持江苏省青年基金项目1项；参加国家科技重大专项、国家自然科学基金面上项目、国家自然科学青年基金项目等。近年来，在国内外重要学术期刊上发表多篇研究论文，并被SCI、ESI检索，申请发明专利1项；主持多项横向科研项目。
+曾获校级教案比赛二等奖、校级百佳本科教师、本科毕业设计优秀指导教师等称号，获得校级教学成果二等奖，参编“十三五”江苏省高等学校重点教材。",https://cs.cumt.edu.cn/info/1103/4494.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-c6a374f855,李政伟,数据科学与工程系,副教授,硕士生导师,机器学习与模式识别、生物信息学、计算机视觉,,zwli@cumt.edu.cn,"李政伟，男，1977年出生，同济大学博士后，副教授，硕士生导师，南京大学和加拿大卡尔加里大学访问学者，入选江苏省双创博士和中国矿业大学第七批优秀青年骨干教师。
+目前主要从事机器学习与模式识别、生物信息学、计算机视觉等方向的研究。先后主持国家自然基金面上项目，江苏省高层次创新创业人才引进计划项目，江苏省博士后科研计划项目，校级优秀青年基金项目等项目，作为骨干成员参与加拿大国家卫生研究院基金项目1项，国家自然基金重点项目1项，国家自然基金面上项目2项，教育部博士点基金项目1项，校学科前沿科学研究专项3项，主持和参与企业委托项目20余项。在国内外重要期刊及学术会议上发表论文30余篇，其中SCI收录16篇，EI收录12篇。
+现任中国生物信息学会生物医学数据挖掘与计算专业组专家成员，江苏省生物医学工程学会生物信息学专委会委员，中国计算机学会会员，中国人工智能学会会员，中国工业与应用数学学会会员，国家自然科学基金通讯评审人，担任Scientific Reports、PLoS Computational Biology、IEEE/ACM Transactions on Computational Biology and Bioinformatics、Neural Networks、BMC bioinformatics、Molecular Therapy-Nucleic Acids、Current Topics in Medicinal Chemistry、Cognitive Systems Research、BMC Medical Informatics and Decision Making等SCI国际期刊审稿专家。
+先后讲授《计算机组成原理》、《计算机系统结构》、《编译原理》、《高级语言程序设计》、《数据库应用》、《计算机新技术》（全英文）、《Python Programming》（全英文）、《机器学习》和《生物信息学》（研究生）等课程。近年来出版教材2部，主持中国矿业大学教改项目2项，参与省级教改1项，校级教改项目3项，指导大学生创新创业训练项目7项，先后荣获煤炭工业协会教育教",https://cs.cumt.edu.cn/info/1103/4451.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-3706322199,李璇,数据科学与工程系,准聘副教授,,方向为机器学习和数据挖掘,清华大学软件学院,lixuan23@cumt.edu.cn,"李璇，博士、准聘副教授，1993 年6 月生，毕业于清华大学软件学院。
+主要研究方向为机器学习和数据挖掘。曾获第七届国际故障预测与健康管理数据挑战赛全球第二名，担任队长，排名第一；作为技术骨干参与清华大学校企合作项目，担任子课题学生负责人，设计并开发数据分析系统，投入企业实际生产应用；参与国家自然科学基金重大项目，针对矩阵补全问题展开研究。目前以第一作者身份发表学术论文6 篇。曾荣获清华大学综合优秀奖学金、大数据系统软件国家工程实验室年度突出贡献二等奖、厦门大学优秀三好学生、厦门大学十大优秀毕业生提名奖等荣誉称号。
+Email ：lixuan23@cumt.edu.cn
+代表性成果：
+[1] Xuan Li, Li Zhang. Geometric Matrix Completion with Collaborative Routing between Capsules[C]//IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2023. （CCF-B 类）
+[2] Xuan Li, Li Zhang. Neighborhood Preserving Embedding via Capsules for Collaborative Filtering[C]//IEEE International Conference on Big Data (BigData). 2022:770-775. （CCF-C 类）
+[3] Xuan Li, Li Zhang. Sparse Linear Capsules for Matrix Factorization-based Collaborative Filtering[C]//International Conference on Neural Information Processing (ICONIP). 2022. （CCF-C 类）
+[4] Xuan Li, Li Zhang. Probabilistic M",https://cs.cumt.edu.cn/info/1103/5340.htm,计算机科学与技术学院/人工智能学院官网,2023-09-06,2026-11-26T17:27:09
+cumt-teacher-80fab93128,杨旭,数据科学与工程系,副教授,硕士生导师,人工智能应用、大模型、智慧矿山科研方面：主持国家自然基金青年项目、中国博士后基金（特别资助，面上项目）、新疆重点研发项目子课题、横向项目等科研项目共17项,,yang_xu@cumt.edu.cn,"杨旭，男，博士，副教授，硕士生导师，研究方向：人工智能应用、大模型、智慧矿山
+科研方面：主持国家自然基金青年项目、中国博士后基金（特别资助，面上项目）、新疆重点研发项目子课题、横向项目等科研项目共17 项。以第一作者 / 通讯作者在 Mobicom 、UbiComp 、IJRMMS 、煤炭学报、软件学报等国内外期刊发表三类高质量论文30 余篇，授权国家发明专利20余项、美国发明专利3项。获得中国煤炭工业协会科学技术二等奖（R2，R4）、中国安全生产协会科技进步二等奖1项（R2）、中国职业安全健康协会科技进步奖三等奖（R4）、江苏省计算机学会优秀博士论文奖。
+教学方面：指导学生获第十九届 “挑战杯”主体赛全国二等奖1项、江苏省特等奖1项；中国国际大学生创新大赛（2024 ）主体赛银奖1 项； “挑战杯”揭榜挂帅专项赛全国特等奖1 项、一等奖1 项、二等奖2 项；中国大学生计算机设计大赛全国一等奖1 项、二等奖2 项、三等奖1 项；中国高校计算机大赛全国一等奖1 项、三等奖1 项；全国大学生数字媒体科技作品及创意竞赛国赛二等奖1 项；江苏省计算机设计大赛特等奖1 项、一等奖2 项， “蓝桥杯”全国软件和信息技术专业人才大赛个人赛江苏省一等奖1 项。第二十七届中国矿业大学教学竞赛（课题教学赛道）二等奖。
+邮箱：yang_xu@cumt.edu.cn
+个人主页：https://faculty.cumt.edu.cn/yangxu/zh_CN/index.htm",https://cs.cumt.edu.cn/info/1103/7172.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-6ca32ff80c,王新,数据科学与工程系,副教授,硕士生导师,人工智能、机器学习、数据挖掘,中国矿业大学,wxgrin@cumt.edu.cn,"王新，博士，副教授，硕士生导师，1978年12月出生。毕业于中国矿业大学。
+主要从事人工智能、机器学习、数据挖掘等方面理论与应用研究。主持国家自然科学基金青年项目1项、江苏省自然科学基金项目1项；参加国家自然科学基金面上项目3项等。近年来，出版专著1部，在国内外重要学术期刊上发表研究论文20余篇，其中被SCI检索10余篇。
+曾获得全国高等学校计算机教学成果三等奖，江苏省暑假社会实践优秀指导教师，中国矿业大学百佳教师，中国矿业大学教学成果一等奖，中国矿业大学本科毕业设计指导教师等。以第一作者出版教材2部。主持2019年江苏省留学生英文培育课程一门，主讲2021年江苏省一流本科课程一门，主讲2018-2019年江苏省高校在线开放课程一门。
+曾获得国家留学基金委资助到澳大利亚南昆士兰大学访问学者一年。
+1. 基于深度学习的采区构造煤分布动态预测模型研究（国家自然科学基金青年项目，项目编号41704115 ），2018.1-2020.12 ，项目负责人王新，经费24 万
+2. 基于地震的煤矿采区应力分布预测方法研究（江苏省自然科学基金项目，项目编号 BK20130175 ），2013.07-2016.06 ，项目负责人王新，经费20 万
+3. 免疫克隆选择算法的研究及其在煤层气预测方法中的应用（中国矿业大学青年科研基金，项目编号2009A054 ），2010.01-2012.12 ，项目负责人王新，经费2 万
+4. 王新 , 机器学习在构造煤分布预测中的应用研究 [M], 徐州 , 中国矿业大学出版社 ,2021
+5. Xin Wang, Changwei Ding , Tongjun Chen, and Ting Yu. Research on the Application of Bayesian-Optimized XGBoost in Minor Faults in Coalfields[J]. Mathematical Problems in Engineering, 2022.
+6. Wang Xin, Chen Tongjun, Xu Hui. Thickness",https://cs.cumt.edu.cn/info/1103/4452.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-7aa13d0ac5,葛欣,数据科学与工程系,副教授,,信息处理，数据挖掘，模式识别,中国矿业大学,gexin@cumt.edu.cn,"葛欣，女，1980年2月出生。毕业于中国矿业大学，副教授，博士。
+葛欣主要从事信息处理，数据挖掘，模式识别等方面研究。参与编辑教材1部，在计算机专业核心期刊发表学术论文10余篇，有多篇被EI或ISTP检索。获实用新型专利授权2项，计算机软件著作权1项。
+主持徐州市一般科技项目。参与国家自然科学基金项目等多项科研课题。
+Email:gexin@cumt.edu.cn",https://cs.cumt.edu.cn/info/1103/4449.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-e4496733b8,陈傲,数据科学与工程系,准聘副教授,,机器学习、时间序列、异常诊断等领域的研究,,chenao57@cumt.edu.cn,"陈傲，男，中国矿业大学计算机学院准聘副教授。2025年于中国科学技术大学计算机学院获工学博士学位，主要从事机器学习、时间序列、异常诊断等领域的研究。
+近年来，围绕复杂结构时序数据的异常检测问题，以第一作者身份在TPAMI、AAAI等国际期刊、会议上发表4篇论文；申请发明专利2项。参与包括科技部重大研究计划在内等多项科研项目。
+代表性著作：
+1. Ao Chen, Xiren Zhou, Yizhan Fan, and Huanhuan Chen. “Underground Diagnosis Based on GPR and Learning in the Model Space”. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 46: 3832- 3844, 2024.
+2. Ao Chen, Xiren Zhou, Huanhuan Chen. “Efficient Anomaly Detection of Irregular Sequences in Ct-Echo Model Space”. 39th AAAI Conference on Artificial Intelligence (AAAI-25), 39(15): 15731–15739, 2025.
+3. Ao Chen, Xiren Zhou, Yizhan Fan, Huanhuan Chen. “Anomaly Detection in Multi-Level Model Space”. IEEE Transactions on Big Data (TBD), 2025.
+4. Ao Chen, Xiren Zhou, Huaijun Li, Danyang Zhao, Huanhuan Chen. “Sparse Model-Space Learning for Multivariate Sequence Classification”. 202410th International Confer",https://cs.cumt.edu.cn/info/1103/6610.htm,计算机科学与技术学院/人工智能学院官网,2025-09-02,2026-11-26T17:27:09
+cumt-teacher-9d6e9ae484,雷小锋,数据科学与工程系,副教授,硕士生导师,数据库与数据挖掘、机器学习、智能信息处理、数字化矿山、智能安监,北京大学,,"雷小锋，男，1975年12月出生。毕业于北京大学，副教授，博士（后），硕士生导师。
+雷小锋，主要从事数据库与数据挖掘、机器学习、智能信息处理、数字化矿山、智能安监等方面的研究。出版专著1部，参编教材1部。在国内外学术期刊上发表学术论文10余篇。参与空间信息的共享平台SISP软件的开发、科技部973《面向内容的海量信息集成、分析处理和服务》、国家863《面向网络海量空间信息的大型GIS》、国家863《空间信息分析技术及原型研发》、国家自然科学基金《东北黑土退化研究》、以及国家863《网格环境下基于Agent的空间资源分布式共享与协同计算研究》等一系列课题和项目的研究和开发。",https://cs.cumt.edu.cn/info/1103/4453.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-771318d30b,唐朝刚,数据科学与工程系,讲师,硕士生导师,不仅注重理论创新，更强调技术在真实场景中的应用落地，致力于推动智能计算与网络系统的深度融合,南京航空航天大学,cgtang@cumt.edu.cn,"唐朝刚，中国矿业大学计算机学院 /人工智能学院、共产党员、硕士生导师。本科毕业于南京航空航天大学，博士毕业于中国科学技术大学与香港城市大学，长期聚焦于边缘计算、智慧交通、车联网、数字孪生、元宇宙、网络智能等前沿交叉领域学科方向。主要研究不仅注重理论创新，更强调技术在真实场景中的应用落地，致力于推动智能计算与网络系统的深度融合。
+在科研产出方面，已在国内外知名期刊和重要学术会议上发表学术论文110余篇，涵盖 IEEE Transactions on Mobile Computing (TMC)、IEEE Transactions on Intelligent Transportation Systems (TITS)、IEEE Transactions on Services Computing (TSC)、IEEE Transactions on Consumer Electronics (TCE)、IEEE Transactions on Vehicular Technology (TVT)、IEEE Network、IEEE Wireless Communications Magazine (WCM)、IEEE Internet of Things Journal (IoT-J) 等中科院一区及CCF A类期刊。Google Scholar总引用量超过2100次，H-index为22。研究工作注重理论与实践相结合，并多次获得国际认可，曾荣获 Web Information Systems Engineering (WISE) 2020 和 IEEE International Conference on e-Business Engineering (ICEBE) 2012 国际会议的最佳论文奖。
+在教学方面，主讲多门本科生核心课程，注重培养学生的计算思维、系统设计与工程实践能力。主讲课程包括《数据结构》、《深度学习》、《大数据与云计算》、《算法设计与分析》、《Java程序设计》等，教学内容深入浅出，受到学生广泛好评。此外，积极推动产学研融合，曾担任多家企业的科技副",https://cs.cumt.edu.cn/info/1104/4562.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-242f7fa894,张辰,数据科学与工程系,讲师,,,,,,https://cs.cumt.edu.cn/info/1104/4564.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-2fc17bd483,朱子青,数据科学与工程系,讲师,,方向为图数据挖掘、社交网络分析、社交媒体分析等,东南大学,zhuziqing@cumt.edu.cn,"朱子青：博士、讲师，毕业于东南大学。主要研究方向为图数据挖掘、社交网络分析、社交媒体分析等。在相关领域发表学术论文10余篇，担任CCF信息系统专委会执行委员，主持中央高校基本科研项目1项，参与国家自然科学基金面上项目3项，参与江苏省前瞻性项目1项
+联系方式 ∶zhuziqing@cumt.edu.cn",https://cs.cumt.edu.cn/info/1104/6612.htm,计算机科学与技术学院/人工智能学院官网,2025-09-02,2026-11-26T17:27:09
+cumt-teacher-a9a4430887,杨文嘉,数据科学与工程系,讲师,,,,,,https://cs.cumt.edu.cn/info/1104/4563.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-48e78bb026,鲍衷旭,数据科学与工程系,讲师,,方向为智慧矿山等,中国矿业大学,Baozx@cumt.edu.cn,"鲍衷旭：博士、讲师，博士毕业于中国矿业大学。主要研究方向为智慧矿山等。在ubicomp、IEEE Trans等会议期刊发表论文10余篇，其中第一作者5篇。申请发明专利5项。
+联系方式：Baozx@cumt.edu.cn",https://cs.cumt.edu.cn/info/1104/6952.htm,计算机科学与技术学院/人工智能学院官网,2026-01-04,2026-11-26T17:27:09
+cumt-teacher-ccc2f786a0,刘美含,数据科学与工程系,师资博士后,,方向为图神经网络、迁移学习、知识追踪等，相关成果发表在NeurIPS、AAAI等人工智能国际顶级会议和期刊上，共计7篇,浙江大学计算机科学与技术学院,damei@cumt.edu.cn,"刘美含，女，1997年生，博士，毕业于浙江大学计算机科学与技术学院。
+主要研究方向为图神经网络、迁移学习、知识追踪等，相关成果发表在NeurIPS、AAAI等人工智能国际顶级会议和期刊上，共计7篇；共申请国际发明专利1 项、国内发明专利2 项，均已授权。博士期间参与纵向项目4项，其中包含国家自然科学基金项目2项；参与横向项目3项，其中作为核心成员负责的浙江大学-阿里巴巴合作项目荣获2020云栖大会平台创新奖、阿里巴巴卓越产品奖，且被中国计算机学会2020技术公益案例集收录。研究生期间获浙江大学优秀毕业生、阿里巴巴标准传播官、浙江大学创新软件研发中心一等奖等荣誉。担任国际顶级会议、期刊审稿人，例如NeruIPS, WWW, TNNLS等。
+联系方式：damei@cumt.edu.cn",https://cs.cumt.edu.cn/info/1146/6608.htm,计算机科学与技术学院/人工智能学院官网,2025-09-01,2026-11-26T17:27:09
+cumt-teacher-06473dd5c5,单振,数据科学与工程系,师资博士后,,面向机械设备健康监测的多源数据融合算法和应用研究,中国矿业大学,shanzhen@cumt.edu.cn,单振，男，毕业于中国矿业大学，博士，师资博士后。主要从事面向机械设备健康监测的多源数据融合算法和应用研究。近五年，在 IEEE Transactions等国内外期刊共发表学术论文5篇，获得国家发明专利授权5项，获得省部级科技进步奖1项。Mail: shanzhen@cumt.edu.cn,https://cs.cumt.edu.cn/info/1146/5980.htm,计算机科学与技术学院/人工智能学院官网,2024-09-20,2026-11-26T17:27:09
+cumt-teacher-9d9b4e4425,曹天杰,网络空间安全系,教授,博士生导师,安全协议、网络安全、隐私保护,中科院软件所,tjcao@cumt.edu.cn,"曹天杰，男，1967年12月出生。毕业于中科院软件所，教授，博士，博士生导师。
+曹天杰从事安全协议、网络安全、隐私保护等方面研究。在国内外重要学术期刊、会议上发表学术论文80余篇，其中被SCI检索的论文10余篇，被EI检索的论文50余篇。主持江苏省基础研究计划、中国科学院信息安全国家重点实验室开放基金、东南大学移动通信国家重点实验室开放基金等项目。参加国家自然科学基金等项目的研究。
+曹天杰曾获江苏省多媒体课件大赛三等奖，煤炭工业协会科学技术奖二等奖等。出版“十一五”国家级规划教材一部。
+曹天杰被聘为中国保密协会隐私保护专业委员会委员、江苏省计算机安全专委会副主任委员、中国密码学会江苏省工作站委员等。
+Email:tjcao@cumt.edu.cn
+;",https://cs.cumt.edu.cn/info/1099/4422.htm,计算机科学与技术学院/人工智能学院官网,2017-07-27,2026-11-26T17:27:09
+cumt-teacher-57fa5e8c7f,李鸣,网络空间安全系,教授,,无线通信网络、智能信息处理、边缘计算智能、垂域大模型、矿山智能化,,lmgyw@cumt.edu.cn,"李鸣，女，博士，教授，博（硕）士生导师。中国计算机学会(CCF)会员、IEEE国际标准委员会会员、入选江苏省“科技副总”、中国矿业大学优秀青年骨干教师、校三八红旗手、优秀班主任。
+从事无线通信网络、智能信息处理、边缘计算智能、垂域大模型、矿山智能化等方面研究。主持国家自然科学基金面上2项、国家自然科学基金青年项目1项、中央高校基本科研业务费专项1项、校企合作项目6项，参与国家深地重大专项一项，合作完成国家自然科学基金面上项目3项等。获评煤炭工业协会科学技术二等奖三项、煤炭工业协会科学技术三等奖一项；在国内外重要学术期刊上发表学术论文20余篇，担任《Apllied Intelligence》、《煤炭学报》等国内外期刊审稿人；授权10项国家发明专利；出版专著一部。担任CCF人工智能与模式识别专委会委员、CCF物联网专委会委员、CCF普适计算专委会委员、江苏省人工智能学会智能系统与应用专委会委员。
+在教学方面，讲授《计算机网络》、《离散数学》等本科课程、《无线网络技术与应用》等研究生课程。主持校级教改课题3项，指导学生获“挑战杯”江苏省“黑科技”专项赛一等奖1项、“中国大学生计算机设计大赛”国家级三等奖1项、“江苏省大学生计算机设计大赛”一等奖1项、三等奖1项、“互联网+”大学生创新创业大赛校赛三等奖1项、大学生创新创业训练计划国家级项目一项、以及多项大学生创新创业训练计划校级项目等。
+Email:lmgyw@cumt.edu.cn",https://cs.cumt.edu.cn/info/1099/7171.htm,计算机科学与技术学院/人工智能学院官网,2014-07-09,2026-11-26T17:27:09
+cumt-teacher-82fbc32ce6,牛强,网络空间安全系,教授,博士生导师,计算机视觉、大模型、矿山信息智能处理,,niuq@cumt.edu.cn,"牛强，中国矿业大学教授、博导，江苏省“333人才工程”中青年技术带头人、江苏省“六大人才高峰”培养对象、矿山数字化教育部工程中心副主任、中国矿业大学优秀研究生导师团队负责人。长期从事计算机视觉、大模型、矿山信息智能处理等方面的研究，主持国家自然科学基金、重点研发计划子课题等纵向/横向科研项目共计40余项；在 Mobicom、UbiComp、TGRS、软件学报、电子学报、煤炭学报等国内外重要学术期刊上发表学术论文100余篇；授权国内外发明专利50余项。
+获教育部科技进步一等奖1项、二等奖1项、中国煤炭工业协会科学技术一等奖1项、二等奖8项、第十一届中国物联网学术会议最佳论文奖、第十届中国物联网学术会议优秀论文奖、第十三届中国物联网学术会议优秀论文奖，江苏省计算机学会优秀博士论文指导教师，指导学生获得“挑战杯”揭榜挂帅专项赛全国特等奖。
+Email: niuq@cumt.edu.cn
+个人及团队主页：http://faculty.cumt.edu.cn/niuqiang",https://cs.cumt.edu.cn/info/1099/4423.htm,计算机科学与技术学院/人工智能学院官网,2017-07-27,2026-11-26T17:27:09
+cumt-teacher-e2e7d165d7,刘上,网络空间安全系,准聘副教授,硕士生导师,方向为隐私安全，差分隐私，图分析，大语言模型等,日本京都大学,shang@cumt.edu.cn,"刘上，中国矿业大学计算机科学与技术学院/人工智能学院准聘副教授，硕导，网安系副主任，江苏省双创博士。博士毕业于日本京都大学，导师是曹洋教授和吉川正俊教授；硕士毕业于华中科技大学，导师是施展教授和冯丹教授。主要研究方向为隐私安全，差分隐私，图分析，大语言模型等。主持项目包括：国家自然科学基金青年科学基金、国家科技重大专项子课题、江苏省自然科学基金青年基金、中央高校基本科研业务费青年科技基金、国家重点实验室开放课题等6项。在相关领域发表10多篇学术论文（包括6篇CCF-A类会议论文），担任IEEE TKDE、IEEE TDSC、IEEE TIFS等国际期刊审稿人和WWW、AAAI、IJCAI、AsiaCCS、ADMA等国际会议程序委员。CCF信息系统专委会执委, CCF网络与系统安全专委会执委,中文信息学会大数据安全与隐私计算专委会委员,江苏省网安学会AI安全专委会委员。曾赴北海道大学和东京工业大学访问交流，与国内外多位学者保持密切交流与合作。
+欢迎对科研有热情、动手能力强的学生联系。每年招生硕士研究生3名。
+英文主页：shang2014.github.io
+中文主页：https://faculty.cumt.edu.cn/liushang/zh_CN/index.htm
+个人邮箱：shang@cumt.edu.cn
+代表性研究成果：
+[1] Shang Liu, Hao Du, Yang Cao, Bo Yan, Jinfei Liu, Masatoshi Yoshikawa. PGB: Benchmarking Differentially Private Synthetic Graph Generation Algorithms. ICDE’25. (CCF-A会议)
+[2] Shang Liu, Yang Cao, Takao Murakami, Jinfei Liu, Masatoshi Yoshikawa. CARGO: Crypto-Assisted Differentially Private Triangle Counting without Truste",https://cs.cumt.edu.cn/info/1100/6950.htm,计算机科学与技术学院/人工智能学院官网,2024-11-28,2026-11-26T17:27:09
+cumt-teacher-4a07961353,张爱娟,网络空间安全系,副教授,硕士生导师,GIS安全，系统安全、访问控制、软件漏洞测试,中国矿业大学,zaj@cumt.edu.cn,"张爱娟，女，1979年7月出生。毕业于中国矿业大学，副教授，博士（后），硕士生导师。2005年德国柏林自由大学访问学者。
+分别主持校级教改及院教改各一项；参与四项校级教改，发表教学论文两篇。中国矿业大学青年教师讲课比赛三等奖。
+从事GIS安全，系统安全、访问控制、软件漏洞测试等方面研究。出版专著3部。在国内外重要学术期刊上发表学术论文10余篇。主持江苏省青年自然科学基金；江苏省博士创新计划项目及中国矿业大学青年基金。参与多项国家自然科学基金项目的研究、教育部博士点基金及校企联合项目。
+Email:zaj@cumt.edu.cn",https://cs.cumt.edu.cn/info/1100/4425.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-9b05f7d818,张艳群,网络空间安全系,副教授,,信息安全、信息隐藏,,,"张艳群，副教授，博士。研究方向：信息安全、信息隐藏。
+1.教学
+主要讲授本科生课程：“数据结构”、“离散数学”、“信息隐藏”。
+2.科研
+主持中国矿业大学青年基金：动态网格环境下信任策略的研究；参与江苏省自然科学基金：嵌入式无线传感网络在矿区数据采集中的应用研究；参与“租赁设备管理系统的升级改造”和“隐患管理信息系统的研究与开发”项目的开发。
+3.论著
+参与编写本科教材《数据库原理及应用》，发表数篇学术论文和教学论文，其中EI收录5篇。",https://cs.cumt.edu.cn/info/1100/4427.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-a3065d892e,徐秀,网络空间安全系,副教授,硕士生导师,通信与信息系统、网络计算，计算机应用技术、计算机网络工程,中国矿业大学,,"徐秀，女，1972年10月出生。毕业于中国矿业大学，副教授，博士（后），硕士生导师，从事通信与信息系统、网络计算，计算机应用技术、计算机网络工程等方面研究。出版专著1部。在国内外重要学术期刊上发表学术论文50余篇，其中被EI检索的论文8余篇，被ISTP检索的论文10余篇。主持国家重点实验室开放基金项目一项，主持博士后特别资助基金项目一项，主持博士后一等资助基金项目一项，主持江苏省环保局科技项目一项，主持中国矿业大学科技基金项目一项；主持徐州市科技项目一项，江苏省大学生科研训练项目一项，指导中国矿业大学大学生科研训练项目多项；
+徐秀曾获“中煤集团”优秀科研成果一等奖，科研标兵等荣誉；讲授计算机网络、网络规划设计、操作系统、信息安全概论、搜索引擎等本科课程；参与教改项目：“信息安全精品课程建设”、“操作系统精品课程建设”、“计算机网络精品课程建设”；主持出版教材一部，参与出版教材三部。发表教学论文多篇。
+徐秀被聘为中国高性能专委会委员，中国计算机学会(CCF)会员，担任多家国际会议论文网络评审专家，计算机工程与科学审稿专家等",https://cs.cumt.edu.cn/info/1100/4434.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-8f04a943f0,曹书蛟,网络空间安全系,准聘副教授,,网络空间安全与量子密码学相关,中国科学院信息工程研究所,,"曹书蛟，工学博士，准聘副教授，1993年4月出生。本科就读于中国科学技术大学，博士毕业于中国科学院信息工程研究所，2022年至2025年在中科院信工所从事网络空间安全与量子密码学相关研究工作，任特别研究员助理（博士后），目前任职于中国矿业大学计算机学院/人工智能学院。
+主要从事量子密码学及其理论基础研究，包括量子计算环境下密码学基本原语的构造与安全性分析、量子复杂性理论以及量子安全协议设计等方向。主持国家自然科学基金青年基金、中国科学院特别研究员助理资助项目等。以第一作者及通讯作者身份在CRYPTO、Theoretical Computer Science、ASIACRYPT等国内外重要期刊和会议发表多篇论文，并多次担任Theory of Cryptography Conference (TCC)、The Computer Journal、Cybersecurity等国际会议和期刊的审稿人。
+研究成果（部分）：
+1.Shujiao Cao and Rui Xue.“The Gap Is Sensitive to Size of Preimages: Collapsing Property Doesn’t Go Beyond Quantum Collision-Resistance for Preimages Bounded Hash Functions”. In: Advances in Cryptology–CRYPTO 2022.（CCF-A，密码学三大会议）
+2.Shujiao Cao and Rui Xue.“Being a permutation is also orthogonal to one-wayness in quantum world: Impossibilities of quantum one-way permutations from one-wayness primitives”. Theoretical Computer Science, 855, 2021.（CCF-B）
+3.Shujiao Cao and Rui Xue.“The (",https://cs.cumt.edu.cn/info/1100/6114.htm,计算机科学与技术学院/人工智能学院官网,2024-11-28,2026-11-26T17:27:09
+cumt-teacher-11bbc06819,李勇钢,网络空间安全系,副教授,,博士后研究,中国科学技术大学（硕博连读）,,"李勇钢，2019年博士毕业于中国科学技术大学（硕博连读），之后在香港中文大学（深圳）从事博士后研究。目前，李博士在中国矿业大学计算机学院任职副教授，主要研究领域是系统安全，模型安全，网络安全，虚拟化，已完成并构建了定制化hypervisor、闭源软件运行时防护系统、内核完整性检测与保护系统、代码探测感知系统和闭源软件运行时测试框架等多个安全系统，并在国内外知名刊物与会议中发表论文40余篇，获得安全旗舰会议CCS“杰出论文奖”，“江苏省网络空间安全学会青年科技奖”。
+个人主页：https://faculty.cumt.edu.cn/LYG1234/zh_CN/index.htm",https://cs.cumt.edu.cn/info/1100/4492.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-d5684907db,李昕,网络空间安全系,副教授,,,,,李昕，男，1978年生。中国矿业大学，计算机学院，博士，副教授。参与了国家863项目“特大城市室内外无缝定位信号体制与系统构建”、国家自然科学基金青年基金“GPS/PLs/INS高精度组合导航及自主完备性监测模型研究”、中国矿业大学第七批优秀团队项目“矿山应急救援平台自主定位测图关键技术与系统”及江苏省测绘科研基金（多星座卫星导航系统的动态RAIM技术研究）等课题的研究工作。主持了国家自然科学基金面上项目、博士后基金面上项目、江苏省资源环境信息工程重点实验室资助项目“基于激光测距和机器视觉的室内导航技术”、国土资源部公益性行业专项“北方村庄压煤山丘区土地产权产籍GNSS/惯导调查技术”等。发表学术论文二十余篇，其中SCI/EI共计10篇。出版专著一部《基于GROEBNER基的信息加密安全分析》，软件著作权四项：《室内三维定位监控系统》、《室内外位置服务系统监控端软件》等；发明专利两项：《进行三维激光扫描的摆动装置及其坐标转换方法》等。,https://cs.cumt.edu.cn/info/1100/4426.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-59e4ec25e4,杨东平,网络空间安全系,副教授,,,中国矿业大学自动化系计算机及其应用专业,,杨东平，男，1968年12月出生。1991年毕业于中国矿业大学自动化系计算机及其应用专业，硕士，副教授。,https://cs.cumt.edu.cn/info/1100/4433.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-798cc43aaf,林果园,网络空间安全系,副教授,,语音识别、自然语言处理、网络空间安全、操作系统及其安全、人工智能及安全方面的研究,南京大学,y@cumt.edu.cn,"林果园，男，1975年10月出生，毕业于南京大学，博士，副教授，中国工程教育认证专家，曾任计算机学院副院长(2016.11-2023.01)，连续两届中国矿业大学优秀骨干教师（2005-2009）和青年学术带头人（2009-2013）。《高级持续性威胁与应急响应虚拟仿真实验》国家级一流课程负责人。主要讲授《操作系统》、《网络攻防》、《信息论与编码》、《云计算安全与应用》等课程。长期从事语音识别、自然语言处理、网络空间安全、操作系统及其安全、人工智能及安全方面的研究。
+主持或参加863高技术、国家自然科学基金、江苏省基础研究计划、江苏省前瞻研究项目、软件新技术全国重点实验室开放基金等、国家基金等纵向项目20多项，横向联合项目30多项，在国内外重要学术期刊上发表学术论文发表SCI、EI等高质量论文50多篇。出版教材、专著7部。
+“基于深度学习的煤矿调度语音智能安全预警系统”被煤炭工业协会鉴定为“国际先进水平”，并获得2023年度煤炭工业科技进步奖二等奖。曾获F5000论文、煤炭教育协会优秀教学成果一等奖，中国密码学会优秀教学成果一等奖、煤炭高等教育优秀教学成果一等奖、中国矿业大学优秀教学成果特等奖、中国矿业大学百佳优秀教师、徐州优秀学术论文一等奖。
+被聘为教育部研究生学位论文评审专家、江苏省、广东省高新技术企业评审专家、中国通信学会云计算专家委员会委员、中国智能学会数字内容安全专业委员会委员、中国计算机学会计算机教育专委会委员、中国密码协会隐私保护专委会委员、江苏省计算机学会信息安全专委会副主任委员、江苏省密码学会理事、江苏省网络空间安全学会理事、中国信息安全技术大会程序委员会委员、全国大学生信息安全竞赛评委、中国云计算技术大会程序委员会委员、密码技术大赛评委、《China Communications》《通信学报》、《网络与信息安全学报》审稿专家。
+邮箱：ling y@cumt.edu.cn",https://cs.cumt.edu.cn/info/1100/4432.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-4c9282f064,毕方明,网络空间安全系,副教授,硕士生导师,智能信息处理、空间信息安全、大数据处理,中国矿业大学,,"毕方明，男，1974年11月出生。毕业于中国矿业大学，副教授，硕士生导师。
+毕方明从事智能信息处理、空间信息安全、大数据处理等方面研究。在国内外重要学术期刊上发表学术论文10余篇，其中被EI检索的论文2篇。主持中国矿业大学校青年基金一项，参与江苏省自然科学基金、国家重点试验室基金等多项。主持企业合作项目三项，参与项目多项。
+毕方明曾获中国矿业大学优秀教学质量一等奖，第五届煤炭行业教育教学成果奖三等奖，校级毕业设计优秀指导教师，校级优秀教学成果二等奖，校级模范班主任、优秀班主任，促进大学生就业二等奖等。",https://cs.cumt.edu.cn/info/1100/4435.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-2f253e927c,汪楚娇,网络空间安全系,副教授,,密码、信息安全、故障诊断,,,"汪楚娇，博士，副教授，中国矿业大学青年骨干教师。研究方向：密码、信息安全、故障诊断。
+一、教学
+教学课程有：离散数学、信息安全数学基础、安全协议、网络安全。
+主持的“密码学课程教学改革研究”获中国矿业大学优秀教学成果三等奖，“信息安全数学基础教学改革”获得校优秀教学二等奖，参加江苏省教改项目《安全协议》精品教材建设。
+二、科研
+主持完成校青年科研基金项目“语义环境下矿井提升机故障诊断免疫网络技术”；参加教育部博士点基金“复杂系统故障知识语义表示与推理研究”；参加通信国家重点实验室开放基金项目“无线网络认证协议的设计与安全协议”并通过验收。
+获教育部科技进步一等奖1项。
+三、论著
+编教材1部，发表学术论文10余篇，其中EI收录8篇。",https://cs.cumt.edu.cn/info/1100/4429.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-3bbc5ba89c,王虎,网络空间安全系,副教授,,计算机网络和网络安全,中国矿业大学计算机科学与技术学院计算机应用专业,wanghu@cumt.edu.cn,"王虎，男，1977年11月出生，副教授，1999年6月本科毕业于中国矿业大学计算机科学与技术学院计算机应用专业，2005年7月在中国矿业大学计算机科学与技术学院取得硕士学位。
+王虎参加工作以来主要从事计算机网络和网络安全等方面教学和研究工作，参编教材两部，作为第一作者公开发表学术论文6篇，教学论文4篇，其中核心期刊学术论文3篇，国际会议学术论文2篇，并有一篇论文录入ISTP检索。参与“十二.五国家科技支撑计划课题”、863等多项纵向及横向科研课题，主持校青年基金项目一项。
+所获奖励：
+2007年获江苏省教学成果奖二等奖，
+2006年获校级优秀教学成果奖一等奖
+2008年获校级优秀教学奖一等奖
+2007年获本科毕业设计优秀指导教师奖
+2014年获中国煤炭工业科学技术奖二等奖
+2015年指导学生参加全国大学生信息安全技术大赛，获优秀指导教师奖
+Email:wanghu@cumt.edu.cn",https://cs.cumt.edu.cn/info/1100/4428.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-2ea8141e8b,鲍宇,网络空间安全系,副教授,,科研研究方向是群体智能方法理论与应用、分布式网络、可信无线网络,同济大学,baoyu@cumt.edu.cn,"鲍宇，男，1977年1月出生。毕业于同济大学，博士（后），副教授，民盟，徐州中国矿业大学计算机科学与技术学院信息安全系教师，CCF会员，ACM会员。
+目前，鲍宇从事科研研究方向是群体智能方法理论与应用、分布式网络、可信无线网络。近几年来,主持国家自然基金青年基金一项，中国博士后面上项目基金一项，参与863项目一项，自然科学基金重大研究计划一项，国家自然基金面上项目3项，省级课题2项，公开发表教科研学术论文30余篇，其中，有10余篇被SCI、EI检索收录；参编著作及教材2部。公开发明专利2项，授权1项。曾获中国矿业大学十佳基础课教师称号，获校级教学成果一等奖等。
+Email:baoyu@cumt.edu.cn",https://cs.cumt.edu.cn/info/1100/4436.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-1de42d9e94,廖红梅,网络空间安全系,讲师,,,,,,https://cs.cumt.edu.cn/info/1101/4559.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-49b177b9f0,杨勇,网络空间安全系,讲师,,,,,,https://cs.cumt.edu.cn/info/1101/4555.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-6084b0d743,顾军,网络空间安全系,讲师,,,,,,https://cs.cumt.edu.cn/info/1101/4552.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-6cd9cbc205,高原,网络空间安全系,讲师,,方向为物联网安全、数据去重和跨模态数据管理,东南大学,gaoyuan@cumt.edu.cn,"高原，博士、讲师，1994 年6 月出生。毕业于东南大学。
+主要研究方向为物联网安全、数据去重和跨模态数据管理。曾参与国家重点研发计划项目1 项，国家自然科学基金重点项目1 项，主持算力互联网与信息安全教育部重点实验室开放课题1 项。先后发表多篇论文10 余篇并担任 IEEE Transactions on Dependable and Secure Computing 、Future Generation Computer Systems 、Journal of Systems Architecture 等多个 SCI 论文的审稿专家。
+Email ：gaoyuan@cumt.edu.cn
+近五年代表性研究成果：
+Gao Y , Chen L, Han J, et al. Similarity-based Secure Deduplication for IIoT Cloud Management System[J]. IEEE Transactions on Dependable and Secure Computing, 2023. (CCF A, JCR Q1, IF 7.3)
+Gao Y , Chen L, Han J, et al. IoT Privacy-preserving Data Mining with Dynamic Incentive Mechanism[J]. IEEE Internet of Things Journal, 2023. (JCR Q1, IF 10.6)
+Gao Y , Chen L, Han J, et al. Similarity-based deduplication and secure auditing in IoT decentralized storage[J]. Journal of Systems Architecture, 2023: 102961.( JCR Q1, IF 4.5)
+Gao Y , Chen L, Wu G, et al. A Game Theory Study of Big Data A",https://cs.cumt.edu.cn/info/1101/5994.htm,计算机科学与技术学院/人工智能学院官网,2024-09-24,2026-11-26T17:27:09
+cumt-teacher-46ad8bae13,李锡渝,网络空间安全系,实验师,,,,,,https://cs.cumt.edu.cn/info/1101/4554.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-f3aa95315d,谢林,网络空间安全系,助理实验师,,,,,,https://cs.cumt.edu.cn/info/1101/4553.htm,计算机科学与技术学院/人工智能学院官网,2022-08-12,2026-11-26T17:27:09
+cumt-teacher-1dc0c324ff,杨磊,网络空间安全系,师资博士后,,无线通信、无线定位等,中国矿业大学,yanglei94@cumt.edu.cn,杨磊，男，毕业于中国矿业大学，博士，师资博士后。主要的研究方向为无线通信、无线定位等。近五年，以第一作者/通讯作者在 IEEE WCL、IEEE CL、Chinacom和中国矿业大学学报等国内外期刊发表三类高质量论文5余篇。Mail: yanglei94@cumt.edu.cn,https://cs.cumt.edu.cn/info/1145/5979.htm,计算机科学与技术学院/人工智能学院官网,2024-09-20,2026-11-26T17:27:09
+cumt-teacher-7f92b37047,丁世飞,计算机科学与技术系,教授,博士生导师,人工智能与模式识别、机器学习与数据挖掘、大数据智能分析,中国科学院计算技术研究所,,"丁世飞，IEEE Senior Member, CAAI Fellow, CAAI 心智计算专委会副主任，毕业于中国科学院计算技术研究所，博士，博士后。现任中国矿业大学教授、博士生导师，计算机科学与技术博士点学科带头人，中国科学院计算技术研究所客座研究员，中国矿业大学-中国科学院智能信息处理联合实验室负责人。
+主要从事人工智能与模式识别、机器学习与数据挖掘、大数据智能分析等理论与应用研究。主持国家重点基础研究计划（“973” 计划）课题1 项、国家自然科学基金项目4 项，参加国家 “863” 高技术项目1 项、国家自然科学基金重点项目1 项、国家自然科学基金项目6 项等。出版专著6 部，申请发明专利30 项，其中授权发明专利8 项。在国内外重要期刊与会议上发表研究论文300 篇，其中 IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCSVT 等 CCF A / B 期刊、AAAI, IJCAI , ICASSP 等 CCF A/B 国际会议上发表80 篇、爱思唯尔 ESI 前1% 高被引论文6 篇、《软件学报》高影响力论文3 篇、《软件学报》F5000 论文1 篇（F5000 ：领跑者5000- 中国精品科技期刊顶尖学术论文）。
+曾获全国优秀博士学位论文提名奖1 项，山东省优秀博士学位论文奖1 项，山东省省级教学成果奖1 项，山东高等学校优秀科研成果奖2 项，江苏省科学技术奖1 项，吴文俊人工智能科学技术奖1 项、江苏省教育科学与研究成果奖（研究类）3 项，智能信息处理联合实验室入选2019 年首届中国矿业大学优秀研究生导师团队（负责人），指导的研究生获得江苏省优秀硕士学位论文2 篇、江苏省人工智能学会优秀硕士学位论文提名奖1 篇、优秀博士论文提名奖1 篇。2017 年、2020 年、2021 年、2022 年、2023 年入围全球前十万科学家榜单（全球学者库网），2021-2024 年连续入选全球前2% 顶尖科学家 - -- 终身科学影响力榜单 （斯坦福大学），2020-2024 年连续5 年入选中国高被引学者。
+同时兼任：
+（1 ）",https://cs.cumt.edu.cn/info/1096/4454.htm,计算机科学与技术学院/人工智能学院官网,2017-07-27,2026-11-26T17:27:09
+cumt-teacher-5c16822b2a,周勇,计算机科学与技术系,教授,博士生导师,机器学习、人工智能、数据科学与工程,,yzhou@cumt.edu.cn,"周勇，博士，中国矿业大学计算机科学与技术学院教授，博士生导师，中国矿业大学徐海学院院长，江苏省“333人才工程”和“六大人才高峰”培养对象。从事机器学习、人工智能、数据科学与工程等方面的理论与应用研究。近年来，出版专著1部；在国内外重要学术期刊和会议上发表学术论文60余篇；授权发明专利40余件。作为项目负责人，先后主持国家自然科学基金面上项目，江苏省自然科学基金，国家博士后科学基金和企业委托等项目20余项。主持建设国家一流课程、江苏省高校在线开放课程、江苏省教改重点项目、江苏省研究生教改项目和中国高等教育学会规划课题等教学研究项目10余项，主编江苏省“ 十三五 ”重点教材1部，江苏省“ 十四五 ”规划教材1部。获得教育部高等学校科技进步一等奖、辽宁省科技进步一等奖、中国煤炭工业协会科学技术二等和三等奖等5项。为科技部重点专项、国家自然科学基金和教育部学位评审中心评审专家；国家安监总局煤矿安全生产“十四五”规划编制工作专家组成员。担任中国计算机学会杰出会员，智能机器人专委会委员，人工智能与模式识别专委会委员，计算机应用专委会委员；中国人工智能学会知识工程与分布智能专业委员会委员，机器学习专业委员会委员；中国煤炭工业协会信息化分会理事；江苏省计算机学会副理事长；江苏省人工智能学会常务理事，智能系统与应用专业委员会主任；煤炭高等教育“十三五”、“十四五”规划教材计算机学科教材编审委员会副主任。
+Mail:yzhou@cumt.edu.cn",https://cs.cumt.edu.cn/info/1096/4459.htm,计算机科学与技术学院/人工智能学院官网,2017-07-27,2026-11-26T17:27:09
+cumt-teacher-9bd745e3ca,姜淑娟,计算机科学与技术系,教授,博士生导师,软件分析与测试、缺陷预测、故障定位、进化计算,东南大学计算机科学与工程学院,shjjiang@cumt.edu.cn,"姜淑娟，女，1966年12月出生。毕业于东南大学计算机科学与工程学院，博士，教授，博士生导师，美国佐治亚理工（Georgia Institute of Technology）访问学者。
+姜淑娟从事软件分析与测试、缺陷预测、故障定位、进化计算等方面研究。在国内外重要学术期刊上发表学术论文100余篇，其中被SCI检索的论文30余篇。获得授权国家发明专利12项。主持并完成国家自然科学基金面上项目2项、江苏省自然科学基金面上项目、教育部科学技术研究重点项目、江苏省“333工程”项目各1项。
+姜淑娟曾获江苏省“青蓝工程”青年骨干教师、江苏省“青蓝工程”中青年学术带头人、江苏省“333”工程培养对象、中国矿业大学师德模范。
+姜淑娟为美国计算机协会(ACM)会员，电气和电子工程师协会(IEEE)会员，中国计算机学会(CCF)会员，CCF软件工程专业委员会委员，CCF信息系统专业委员会委员。
+担任《Transaction on Software Engineering and Methodology》、《Transactions on Software Engineering 》、《Empirical Software Engineering》《IEEE Transactions on Reliability》、《Journal of Systems and Software》、《Information and Software Technology》、《Journal of Software: Evolution and process》、《Scientific Programming》等国际SCI期刊的审稿专家，《软件学报》、《计算机学报》、《计算机研究与发展》、《电子学报》和《通信学报》等国内一级期刊的审稿专家。
+Email:shjjiang@cumt.edu.cn",https://cs.cumt.edu.cn/info/1096/6571.htm,计算机科学与技术学院/人工智能学院官网,2017-07-27,2026-11-26T17:27:09
+cumt-teacher-f9382d0254,张国鹏,计算机科学与技术系,教授,,包括:（1）金融大数据分析与挖掘：基于高维、异构、多源的金融大数据，研发高效、可解释的机器学习模型，用于市场预测、风险识别与资产定价,西安电子科技大学,gpzhang@cumt.edu.cn,张国鹏，男，1978年8月出生。毕业于西安电子科技大学，博士，教授，博士/硕士研究生导师。英国埃塞克斯大学计算机科学与电子工程学院博士后。研究领域包括:（1）金融大数据分析与挖掘：基于高维、异构、多源的金融大数据，研发高效、可解释的机器学习模型，用于市场预测、风险识别与资产定价；（2）算法金融与智能决策：研究强化学习、多智能体系统等在量化交易、投资组合优化、算法风控等复杂动态金融决策中的应用与优化；（3）金融知识图谱与事件推理：结合自然语言处理与图神经网络技术，研究风险传导机制，分析事件驱动的市场影响。发表论文多篇，主持完成国家自然科学基金、江苏省自然科学基金、中国博士后科学基金、国家重点实验室开放课题等多项科研项目。Email: gpzhang@cumt.edu.cn,https://cs.cumt.edu.cn/info/1096/4462.htm,计算机科学与技术学院/人工智能学院官网,2017-01-03,2026-11-26T17:27:09
+cumt-teacher-85d330b270,王志晓,计算机科学与技术系,教授,博士生导师,网络表示学习、推荐系统、知识图谱、图数据挖掘和社交网络分析,,zhxwang@cumt.edu.cn,"王志晓，男，博士，教授，博士生导师。现任院教授委员会副主任。入选江苏省“333”工程（省中青年科学技术带头人）、江苏省“青蓝工程”（省优秀青年骨干教师）、江苏省“六大人才高峰”、中国矿业大学青年学术带头人和中国矿业大学优秀青年骨干教师。
+主要从事网络表示学习、推荐系统、知识图谱、图数据挖掘和社交网络分析等方面的研究。先后主持国家自然科学基金面上项目、青年项目，江苏省基础研究计划面上项目，中国博士后科学基金特别资助项目，江苏省博士后基金A类项目等。出版专著1部，授权发明专利近20项。在NeurIPS、AAAI、TKDE、TKDD和TCYB等国内外重要学术会议及期刊上发表SCI论文50余篇。作为核心完成人近年来获得教育部科技进步奖二等奖2项、上海市科技进步奖二等奖2项、江苏省科技进步奖二等奖1项、中国煤炭工业科学技术奖一等奖、二等奖和三等奖各1项。指导的研究生获得江苏省优秀硕士学位论文。
+讲授《算法分析与设计》(本科生)、图数据挖掘（硕士生）和社交网络分析（博士生）等课程。近年来主持4项中国矿业大学教改课题，获得3项校级教学成果奖。先后3次荣获中国矿业大学“百佳本科教学教师”称号，2次荣获中国矿业大学“科研育人先进个人”称号。
+Email: zhxwang@cumt.edu.cn",https://cs.cumt.edu.cn/info/1096/4461.htm,计算机科学与技术学院/人工智能学院官网,2017-03-07,2026-11-26T17:27:09
+cumt-teacher-a2185138ef,王磊,计算机科学与技术系,教授,,面向复杂生命系统的人工智能框架、算法和应用研究,中国矿业大学,leiwang@cumt.edu.cn,"王磊，男，毕业于中国矿业大学，博士，教授，博士 / 硕士研究生导师，中国科学院博士后。主要从事面向复杂生命系统的人工智能框架、算法和应用研究。先后主持国家科技部重大专项课题1 项，国家自然科学基金面上项目1 项，国家自然科学基金青年科学基金项目1 项，省优青项目1 项，省重点项目1 项，中科院西部之光项目1 项，中国博士后项目1 项，在国内外重要学术期刊上发表研究论文80 余篇，其中被 SCI 检索60 余篇、爱思唯尔 ESI 前1% 高被引论文3 篇。担任 IEEE 会员，中国计算机学会会员，IEEE Transactions on Neural Networks and Learning Systems 、IEEE Journal of Biomedical and Health Informatics, Briefings in Bioinformatics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, Bioinformatics, Neurocomputing 等期刊审稿人，多个国际学术会议审稿人。
+Mail: leiwang@cumt.edu.cn",https://cs.cumt.edu.cn/info/1096/5404.htm,计算机科学与技术学院/人工智能学院官网,2023-10-18,2026-11-26T17:27:09
+cumt-teacher-7462abd4cc,肖硕,计算机科学与技术系,教授,博士生导师,物联网、自然语言处理，人工智能，大数据,,sxiao@cumt.edu.cn,"肖硕，男，汉族，1981年生，中国民主同盟盟员，教授，博士生导师。长期致力于物联网、自然语言处理，人工智能，大数据等方面的研究工作，入选江苏省科技副总。
+主持国家自然科学基金面上项目2项、江苏省自然科学基金1项、中国矿业大学重大横向项目1项，徐州市科技计划项目1项，中央高校基本科研业务费项目3项。参与国家重点研发计划、国家自然科学基金等项目多项。发表学术论文50余篇，其中SCI检索30余篇，主编《单片机数据通信典型应用大全》（铁道出版社），授权国内外专利、软著20余项。担任《电子学报》、《电子学报（英文版）》、《中国安全科学学报》、IEEE汇刊等国内外一级期刊的审稿专家。荣获中国专利奖1项、上海市科学技术进步二等奖1项、中国煤炭工业协会一、二等奖多项。担任国家自然科学基金函评专家、教育部学位中心论文评审专家。
+指导多名研究生获得国家奖学金，指导江苏省研究生创新计划项目多项。主持中国矿业大学本科教改项目2项，指导江苏省优秀本科毕设1项，指导国家级、省级和校级大学生创新创业训练项目多项，指导本科生获得中国机器人大赛一等奖、二等奖多项，指导本科生获得飞思卡尔电子设计大赛二等奖1项。荣获中国矿业大学“科研育人先进个人”称号，中国矿业大学“优秀班主任”称号，中国矿业大学“促进就业先进个人”称号。
+Email:sxiao@cumt.edu.cn",https://cs.cumt.edu.cn/info/1096/5614.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-f3deb717e5,袁冠,计算机科学与技术系,教授,博士生导师,人工智能，大数据技术，机器学习与计算智能,中国矿业大学计算机学院,,"袁冠，男，1982 年生，教授，博士（后），博士生导师。2012 年毕业于中国矿业大学计算机学院，2015 -2016 年度南京大学机器学习与数据挖掘研究所访问学者，2018 -2019 年度受国家留学基金委骨干教师资助，纽约州立大学布法罗分校访问学者，2019 - 2021 年度借调教育部科技发展中心评审评估处工作。中国矿业大学青年学术带头人、优秀青年骨干教师。中国计算机学会高级会员，中国人工智能学会会员，IEEE 会员，ACM 会员。
+研究方向：人工智能，大数据技术，机器学习与计算智能。
+研究领域：时空大数据挖掘，社交网络计算，智能信息数据处理等。
+联系方式：yuanguan @ cumt.edu.cn
+关于课题组更详细科研、课程、招生信息，请浏览
+学术主页：https://faculty.cumt.edu.cn/yuanguan/
+欢迎以下学生报考硕士或博士研究生： （1 ）专业知识扎实，数学和英语基础好，勤思考，求知欲强，动手能力强，做事认真负责；
+（2 ）对智能系统开发、大模型智能体设计等人工智能技术和系统感兴趣的同学，熟悉 Python /C++/Java/C#/PHP 等语言 （之一） ，工作作风踏实。
+本研究组常年招收计算机科学与技术、数据科学与大数据技术、人工智能等相关专业的大三、大四优秀本科生（特别是有志于出国、读研、读博深造，求知欲强，对前沿科学问题研究有浓厚兴趣，喜欢算法设计和机器学习）参加科研项目实践。有意者欢迎邮件咨询、联系。",https://cs.cumt.edu.cn/info/1096/6585.htm,计算机科学与技术学院/人工智能学院官网,2017-01-01,2026-11-26T17:27:09
+cumt-teacher-e309f510f5,邵志文,计算机科学与技术系,教授,博士生导师,情感智能、细粒度目标检测、视觉内容生成、时间序列预测等领域,,zhiwen_shao@cumt.edu.cn,"邵志文，男，1994 年12 月出生，安徽马鞍山人，中国矿业大学教授、博士生导师，中国计算机学会（CCF ） / 中国图象图形学学会（CSIG ） / 中国图学学会（CGS ）高级会员，入选国家人社部 “香江学者计划” 、全国煤炭行业青年岗位能手、江苏省 “双创博士”/“科技副总”、徐州市“彭城英才”、中国矿业大学青年学术带头人 / 优秀青年骨干教师 / 本科毕业设计（论文）优秀指导教师 / 优秀班主任。2020 年8 月获得上海交通大学博士学位，导师为国家杰出青年科学基金获得者马利庄教授；2017 年11 月至2018 年11 月在新加坡南洋理工大学做联合培养博士生，导师为 IEEE Fellow 蔡剑飞教授；2015 年7 月获得西北工业大学学士学位。2020 年8 月底加入中国矿业大学计算机科学与技术学院；2022 年12 月再次加入上海交通大学马利庄教授团队，做在职博士后；受 “香江学者计划”支持，2024 年1 月至2025 年12 月在香港科技大学做博士后，导师为终身首席教授杨瓞仁。
+研究方向为情感智能、细粒度目标检测、视觉内容生成、时间序列预测等领域。已主持国家自然科学基金面上 / 青年项目、中国博士后科学基金面上项目、徐州市前沿技术研发计划、中央高校基本科研业务费专项、校企合作项目等；获评2020 年上海市科技进步奖特等奖 （完成人排序11/18 ）、2024 年河南省教育厅科技成果奖一等奖 （第二完成人）、2019 年世界人工智能大会卓越人工智能引领者（SAIL ）奖 Top 30 榜单项目 （完成人排序6/13 ）、2020 年首届上海交通大学 “十大科技进展”入选项目（完成人排序8/9 ）；已发表（含录用）82 篇论文，其中以第一作者或通讯作者在 IEEE TPAMI/TIP/TMM/TCSVT/TAFFC/ TFUZZ 、ACM MM/TOMM 、IJCV 、ECCV 、AAAI 、PR 等国内外重要期刊和会议上发表41 篇论文（第一作者发表 CCF-A/ 中科院一区15 篇、通讯作者发表 CCF-A/ 中科院一区4 篇）；授权12 项国家发明专",https://cs.cumt.edu.cn/info/1096/7170.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-73b8a38e10,陈伟,计算机科学与技术系,教授,博士生导师/硕士生导师,煤矿监控与通信、智能信息处理与大模型应用、计算机视觉与机器学习、工业物联网与无线网络、多无人机协同监测,,chenw@cumt.edu.cn,"一、个人简介
+陈伟，男，1978年9月出生。中国矿业大学计算机科学与技术学院/人工智能学院教授，博士生导师、硕士生导师。江苏省“青蓝工程”高校跨世纪学术带头人。
+陈伟教授从事煤矿监控与通信、智能信息处理与大模型应用、计算机视觉与机器学习、工业物联网与无线网络、多无人机协同监测等方向的研究工作。
+主持国家自然科学基金面上项目、煤基低碳联合基金项目等十余项科研项目。获中国煤炭工业协会科学技术奖二等奖3项、中国安全生产协会科学技术奖二等奖1项、江苏省科学技术三等奖1项、国家安全监管总局安全生产科技成果奖三等奖1项。授权发明专利6项。
+陈伟教授是IEEE会员，中国计算机学会高级会员，中国人工智能学会会员，中国煤炭学会会员，江苏省计算机学会/江苏省微电脑应用协会人工智能专委会委员，中国矿山安全学会煤矿监控与通信专业委员会委员，中国人工智能学会粗糙集与软计算专业委员会委员，中国有色金属学会矿山信息化智能化专业委员会委员。
+在IEEE Transactions on Mobile Computing、IEEE Transactions on Multimedia、ACM Transactions on Multimedia Computing, Communications and Applications、IEEE Wireless Communications、IEEE Transactions on Industrial Informatics、IEEE Internet of Things Journal、IEEE Transactions on Emerging Topics in Computational Intelligence、Computer Networks、Information Processing & Management、Expert Systems With Applications、Scientific Data、中国科学、通信学报等CCF A/B类期刊、中科院一区期刊、煤炭行业T1类期刊中国矿业大学学报、煤炭学报、矿业科学学报等发表SCI/EI检索",https://cs.cumt.edu.cn/info/1096/4460.htm,计算机科学与技术学院/人工智能学院官网,2017-07-27,2026-11-26T17:27:09
+cumt-teacher-6c99877011,刘世蕾,计算机科学与技术系,副教授,,,,,,https://cs.cumt.edu.cn/info/1097/4541.htm,计算机科学与技术学院/人工智能学院官网,2022-08-11,2026-11-26T17:27:09
+cumt-teacher-b1a230a5f9,姜薇,计算机科学与技术系,副教授,硕士生导师,数据库、数据挖掘、智能信息处理,南京大学计算机软件专业,,"姜薇，女，1966年6月出生。毕业于南京大学计算机软件专业，副教授，硕士生导师。
+担任全校计算机基础课程主讲教师，承担大学计算机基础和高级语言课程教学、课程建设、教学实施、教材建设、教学研究等工作。参与江苏省教改项目，主持和参与校级教改项目多项。从事数据库、数据挖掘、智能信息处理等方面研究，发表学术论文20余篇。参与江苏省高校自然科学研究项目，主持和参与徐州市科技计划项目、横向科研等项目。
+曾获中国矿业大学“师德模范”、“教书育人先进个人”、徐州市“师德先进个人”等称号。在学校评教活动中，多次获得优秀。获江苏省教学成果二等奖1项，中国矿业大学优秀教学成果二等奖4项、三等奖4项，中国矿业大学教学质量二等奖1项，全国煤炭教育优秀成果一等奖1项、二等奖1项、三等奖3项。
+主编教材12部，其中3部教材获“十一五”国家级规划教材，1部教材获“十二五”江苏省高等学校重点教材。",https://cs.cumt.edu.cn/info/1097/4472.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-cba015b4fa,姜顺荣,计算机科学与技术系,副教授,硕士生导师,方向：网络空间安全和隐私保护，具体包括车联网、云计算和区块链,西安电子科技大学通信工程学院,,"姜顺荣，男，1986年12月出生，江苏盐城人。博士毕业于西安电子科技大学通信工程学院，美国佛罗里达大学联合培养博士生，副教授，硕士生导师。
+主要研究方向：网络空间安全和隐私保护，具体包括车联网、云计算和区块链等应用场景。在IEEE Transactions on Services Computing、IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Cloud Computing、IEEE Transaction on Vehicular Technology、IEEE Internet of Things Journal、IEEE GLOBECOM、IEEE ICC、中国科学等顶级期刊和重要会议上发表论文近40篇。主持国家和江苏省自然科学基金青年项目，江苏省高等学校自然科学研究面上项目，中央高校基本科研业务费专项等。作为学术骨干参与国家重点研发计划、NSFC-通用研究联合基金重点项目和江苏省重点研发计划等多个项目。获批国家发明专利6项，获江苏省科技进步二等奖1项。
+指导研究生情况：近三年指导研究生3人，一人毕业去往腾讯工作，一人毕业去往国企工作，一人准备毕业读博深造。",https://cs.cumt.edu.cn/info/1097/4480.htm,计算机科学与技术学院/人工智能学院官网,2011-03-02,2026-11-26T17:27:09
+cumt-teacher-28ac5f162c,孙中彬,计算机科学与技术系,准聘副教授,硕士生导师,不均衡数据挖掘、自动化机器学习、金融科技、软件缺陷预测,西安交通大学,zhongbin@cumt.edu.cn,"孙中彬，中共党员，1990年9月出生，毕业于西安交通大学，博士、副教授、硕士生导师，西安交通大学博士后，曾在教育部科技发展中心评审评估处借调。
+主要从事不均衡数据挖掘、自动化机器学习、金融科技、软件缺陷预测等方面的理论与应用研究。作为项目负责人，先后主持国家自然科学基金青年基金项目1项，中国博士后科学基金面上项目1项，中国矿业大学青年科技基金项目1项；作为核心成员，参与了多项国家自然科学基金项目。近年来，获得授权国家发明专利1项，在国内外重要学术期刊上发表学术论文10余篇，其中SCI检索10篇。
+中国计算机学会（CCF）会员，中国计算机学会信息系统专委会委员，江苏省计算机学会特色化软件人才培养专委会委员。担任《IEEE Transactions on Knowledge and Data Engineering》（TKDE）、《IEEE Transactions on Software Engineering》（TSE）、《ACM Transactions on Software Engineering and Methodology》（TOSEM）、《IEEE Transactions on Cybernetics》（TCYB）及《Pattern Recognition》（PR）等国际知名SCI期刊的审稿专家。
+Email：zhongbin@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/6578.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-3540eec036,孙昆阳,计算机科学与技术系,准聘副教授,,计算机视觉，域自适应学习，自动驾驶等,,kunyang_sun@cumt.edu.cn,"孙昆阳，女，博士，准聘副教授。本科就读于电子科技大学，直博至东南大学，导师黄永明教授。研究方向：计算机视觉，域自适应学习，自动驾驶等。近年来发表学术论文5 篇，其中第一作者2 篇，参与国家重点研发计划一项。曾获 CSC 国家留学基金委资助至奥地利格拉茨技术大学 Horst Bischof 教授课题组联培一年。
+联系方式：kunyang_sun@cumt.edu.cn
+代表成果：
+Sun K, Shi H, Zhang Z, et al. Ecs-Net: Improving Weakly Supervised Semantic Segmentation by Using Connections Between Class Activation Maps[C]//ICCV. 2021: 7283-7292. （CCF A 类会议）
+Sun K, Lin W, Shi H, et al. AIRA-DA: Adversarial Image Reconstruction Alignments for Unsupervised Domain Adaptive Object Detection[J]. IEEE Robotics and Automation Letters, 2023, 8(6): 3645-3652. （中科院2 区 SCI ，IF=4.6 ）
+Chen H, Sun K, Tian Z, et al. BlendMask: Top-down Meets Bottom-up for Instance Segmentation[C]//CVPR. 2020: 8573-8581. （共同一作，CCF A 类会议）
+Lin W, Kukleva A, Sun K, et al. Cycda: Unsupervised Cycle Domain Adaptation to Learn from Image to Video[C]//ECCV, 2022: 698-715. （CCF B 类会议）",https://cs.cumt.edu.cn/info/1097/5989.htm,计算机科学与技术学院/人工智能学院官网,2024-09-23,2026-11-26T17:27:09
+cumt-teacher-a09ad3efb0,孙晋非,计算机科学与技术系,副教授,,机器学习与数据挖掘、数据可视化方面的研究，主持中国矿业大学青年基金1项，参加“十二五”国家科技支撑计划课题1项,中国矿业大学,sjfei@cumt.edu.cn,"孙晋非，女，1980年4月出生。毕业于中国矿业大学，副教授。
+孙晋非从事机器学习与数据挖掘、数据可视化方面的研究，主持中国矿业大学青年基金1项，参加“十二五”国家科技支撑计划课题1项。
+教学成果《以培养计算思维为目标的VB程序设计教学与实践》获得校级优秀教学成果一等奖，全国煤炭教育优秀研究成果二等奖，被评为中国矿业大学百佳本科教学教师、最受学生欢迎的教师。
+Email:sjfei@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/4470.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-87060d6264,寇旗旗,计算机科学与技术系,副教授,硕士生导师,图像处理/AI视频分析、智能检测与模式识别、图像增强与复原,,kouqiqi@cumt.edu.cn,"寇旗旗，男，河南许昌人，博士、副教授、硕士生导师、中国矿业大学青年学术带头人、优秀青年骨干教师、科研育人先进个人、校智能检测与模式识别研究中心副主任、中国煤炭学会煤矿自动化专委会副秘书长、中国煤炭工业协会信息化分会理事、中国有色金属学会矿山信息化智能化专委会委员、国家自然科学基金 ( 青年、面上 ) 通讯评审专家、国家级智能化示范矿井验收专家、教育部学位与研究生教育发展中心评审专家库专家、 《煤炭学报》 《IJCST 》《煤炭科学技术》 《采矿与岩层控制工程学报》《矿业安全与环保》《工矿自动化》期刊青年编委等职务，研究方向为图像处理 /AI 视频分析、智能检测与模式识别、图像增强与复原。
+※ 教学方面：1 ）校一流本科课程团队骨干成员，主要担任计算机科学与技术、数据科学与大数据、智能采矿 ( 矿业工程学院 ) 专业的课程教学工作，主讲课程为《图像处理与计算机视觉》《人工智能工具与平台实践》《计算思维与人工智能》等，教学成果获河北省教学成果特等奖1 项、全国煤炭行业教学成果二等奖1 项、中国矿业大学教学成果二等奖2 项，并多次获得学校或学院组织的教学竞赛特等奖和一等奖 ( 2 次 ) 等；2 ）作为指导教师指导学生参加获得 “ 挑战杯 ”“ 互联网 +” 等高水平科技竞赛获奖19 项 ( 其中国奖6 项、省奖8 项 ) ；3 ）2020 年 -2025 年连续6 个年度考核优秀，先后被学校评选为校青年学术带头人、校优秀青年骨干教师、校科研育人先进个人、校模范班主任！
+※ 科研方面：1 ）作为项目负责人主持国家自然科学基金、贵州省科技支撑计划重点项目课题、企业委托联合攻关科技项目共40 余项，科研经费超两千万元；作为骨干参与国家重点研发计划、国家自然科学基金面上项目、江苏省重大成果转化项目等纵向项目10 余项；2 ）为 PR 、ESWA 、计算机学报、煤炭学报、煤炭科学技术等国内外学术期刊的审稿人，担任国际学术会议 ICICSP 专业技术审查委员会委员、国际学术会议 (IoTCIT 2023) Workshop 主席，并作为第1 完成人获批制定中国煤炭工业协会团体标准1 项",https://cs.cumt.edu.cn/info/1097/5615.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-cbea4989f3,席景科,计算机科学与技术系,副教授,硕士生导师,数据挖掘、空间信息处理、Web应用,中国矿业大学,xjk@cumt.edu.cn,"席景科，男，1972年2月出生。毕业于中国矿业大学，副教授，博士，硕士生导师。
+席景科主要从事数据挖掘、空间信息处理、Web应用等方面的研究。在国内外重要学术期刊上发表学术论文多篇，被EI检索论文多篇；参与了多项基金的研究工作，主持了多项横向项目的开发与设计，取得了较好的经济和社会效益。
+Email:xjk@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/6573.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-7adcd87cfe,张健,计算机科学与技术系,副教授,硕士生导师,机器学习：主要包括概率图神经网络、多标签学习、弱监督场景下的多示例多标签机器学习方法等,,zhangjian10231209@cumt.edu.cn,"张健，男，山东泰安人，1990 年12 月，中国矿业大学本硕博，东南大学博士后，副教授，硕士生导师。
+研究方向：机器学习：主要包括概率图神经网络、多标签学习、弱监督场景下的多示例多标签机器学习方法等；用电数据分析：主要包括用电数据的预测、异常检测、非侵入式负荷识别等。
+目前主持参与国家自然科学基金、国家重点研发计划等横纵向项目共9 项；在 TCYB 、软件学报等国内外期刊共发表论文50 余篇。获得江苏省科学技术奖三等奖1项、江苏省高校科学技术成果奖三等奖1项、中国矿业大学教学成果奖二等奖一项，指导学生参加大创项目、学科竞赛等。
+Email: zhangjian10231209@cumt.edu.cn
+个人主页：http://faculty.cumt.edu.cn/ZJ1123/zh_CN/index.htm",https://cs.cumt.edu.cn/info/1097/6312.htm,计算机科学与技术学院/人工智能学院官网,2022-08-11,2026-11-26T17:27:09
+cumt-teacher-d5b7abd4b4,张博,计算机科学与技术系,副教授,,人工智能、机器学习、模式识别、机械设备状态监测与云计算,中国科学院计算技术研究所,zbcumt@163.com,"张博，男，1981年出生于江苏省徐州市。毕业于中国科学院计算技术研究所，博士，中国矿业大学博士后。2018年，新加坡国立大学（NUS）数据科学研究所（IDS）访问学者。现任中国矿业大学计算机学院副教授。
+张博从事人工智能、机器学习、模式识别、机械设备状态监测与云计算等方面的理论与应用研究。主持江苏省基础研究计划（自然科学基金） --青年基金项目1项，第62批中国博士后科学基金面上项目1项和江苏省博士后科研资助计划1项。近年来，申请/授权发明专利3项，发表SCI期刊论文7篇，EI期刊论文3篇。担任国际期刊《IEEE Transactions on Industrial Electronics》和《计算机学报》等国内外期刊的审稿专家。
+2016年12月，张博主持的《皮带输送机监测和火灾预警技术研究及应用》项目获得中国煤炭工业协会、中国煤炭学会颁发的“中国煤炭工业科学技术奖二等奖”，并成功应用于中煤平朔集团井工一矿和井工二矿的皮带运输机，有效地解决了矿井皮带输送机在运行工况条件下的状态监测、故障诊断与预报、火灾预警等方面的难题。
+联系电话：[已脱敏]
+E-Mail：zbcumt@163.com",https://cs.cumt.edu.cn/info/1097/6574.htm,计算机科学与技术学院/人工智能学院官网,2014-08-04,2026-11-26T17:27:09
+cumt-teacher-9856035277,张磊,计算机科学与技术系,副教授,硕士生导师,时空数据挖掘，城市智能计算，基于GPS数据、移动电话数据、社交媒体数据、出租车数据等大规模数据的人员行为和社会行为分析,南京航空航天大学,,"张磊，男，1977年8月出生。毕业于南京航空航天大学，副教授，博士（后），硕士生导师。现任计算机系系主任，计算机科学与技术本科专业负责人，计算机科学与技术（卓越工程师）负责人。
+从事时空数据挖掘，城市智能计算，基于GPS数据、移动电话数据、社交媒体数据、出租车数据等大规模数据的人员行为和社会行为分析等方面研究和软件开发。在国内外学术期刊和学术会议发表学术论文40余篇，其中第一作者被SCI检索的论文4篇，被EI检索的论文20余篇。第一发明人授权发明专利2项，受理发明专利3项。主持江苏省博士后基金、校科基金、校学科提升项目、校协同创新中心等等项目。主持开发徐州移动人生伴侣、基于Android的煤矿移动终端安全信息管理系统等软件系统开发，参加863高技术、国家自然科学基金等项目的研究。主要讲授课程：软件工程、面向对象分析与设计、并行与分布式系统。
+获教育部科技进步奖一等奖1项，国家煤炭科技进步奖二等奖1项，国家煤炭科技进步奖三等奖1项，国家安全生产进步奖三等奖1项。获校优秀教学成果奖一等奖1项，校优秀教学成果奖二等奖1项。所指导本科生获江苏省优秀毕业论文1项，指导研究生论文多次获校优秀研究生论文，校优秀毕业设计指导教师，校优秀班主任等。
+为中国计算机学会高级会员，江苏省计算机学会人工智能专委会委员，江苏省计算机教育专委会委员。",https://cs.cumt.edu.cn/info/1097/6572.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-1fbbdbcea2,张艳梅,计算机科学与技术系,副教授,硕士生导师,方向：软件分析与测试、智能化软件工程,中国矿业大学计算机学院,ymzhang@cumt.edu.cn,"张艳梅，博士，副教授，硕士生导师。中国计算机学会会员，2012年毕业于中国矿业大学计算机学院，获博士学位。2018-2019年纽约州立大学布法罗分校访问学者。担任《计算机学报》、《软件学报》、《Journal of System and Software》等国内外重要学术期刊的特约审稿人。
+联系邮箱：ymzhang@cumt.edu.cn
+主要研究方向：软件分析与测试、智能化软件工程等方面研究。
+科研项目：
+1、主持国家自然科学基金青年基金项目1项
+2、作为主要成员参与国家自然科学基金项目5项
+3、主持国家重点实验室开放基金项2项
+4、主持中央高校基本科研业务费项目2项。
+学术论文：
+1、近年来在领域内国内外重要学术期刊（《计算机学报》、《软件学报》、《电子学报》、《通信学报》、《IET Software》、《Journal of System and Software》、《Software: Practice & Experience》）上发表学术论文10余篇。
+2、出版学术著作1部。
+发明专利：
+申请发明专利3项，其中授权1项，实用新型专利1项。
+教学情况：
+1、承担《软件测试技术》、《Android应用开发技术》、《大学计算机基础》、《高级语言程序设计实验》等本科生课程的教学。
+2、主持校教学改革项目2项，在《计算机教育》发表教学论文2篇。
+相关获奖：
+1、获2017.3中国矿业大学促进就业先进个人
+2、2016—2018年度中国矿业大学“巾帼建功先进个人”
+3、2016-2017年度徐州市自然科学优秀学术论文一等奖。",https://cs.cumt.edu.cn/info/1097/6577.htm,计算机科学与技术学院/人工智能学院官网,2017-01-17,2026-11-26T17:27:09
+cumt-teacher-06a0515c4b,徐东红,计算机科学与技术系,副教授,硕士生导师,方向包括视觉强化学习、深度强化学习、云计算调度与优化、无服务器计算中调度与优化以及基于视觉强化学习的目标识别等,,xudh123@cumt.edu.cn,"徐东红，男，1977年出生，工学博士，西安交通大学毕业，现为中国矿业大学副教授、硕士生导师，曾作为访问教授在加拿大麦克马斯特大学进行学术交流与合作。
+目前主要研究方向包括视觉强化学习、深度强化学习、云计算调度与优化、无服务器计算中调度与优化以及基于视觉强化学习的目标识别等。在科研项目方面，先后主持或参与“核高基”国家科技重大专项子课题、国家自然科学基金面上项目、校级青年基金项目等多项课题，并主持和参与企事业委托研发项目18项。研究成果在《计算机研究与发展》（CCF A类期刊）、《Future Generation Computer Systems》等国内外重要学术期刊发表论文20余篇，其中SCI收录10余篇。
+现为中国计算机学会（CCF）会员、江苏省人工智能学会专委会委员，同时担任多个国内外学术期刊审稿专家，积极参与行业学术交流与评审工作，助力学科发展。
+在教学方面，先后讲授《高级语言程序设计》、《云计算技术》、《文献检索与论文写作》（全英文）、《C++程序设计》、《软件工程新技术》（全英文）、《云计算综合实训》、《软件开发综合实践》等课程。近年来，出版学术专著1部，参编教材1部，指导学生多次在“中国软件杯”大学生软件设计大赛中获得二等奖、三等奖，在“蓝桥杯”全国软件和信息技术专业人才大赛中获得多项全国奖项；指导大学生创新创业训练项目10余项。个人荣获煤炭工业协会科技成果奖二等奖，并多次被评为优秀班主任、促进就业先进个人等。
+欢迎对科研有浓厚兴趣、勤奋踏实、具有自主学习意识的同学报考硕士研究生，同时也欢迎优秀本科生加入实验室开展实习与合作研究。
+联系邮箱：xudh123@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/6575.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-833280a3bc,徐婷婷,计算机科学与技术系,准聘副教授,,空间动态光学成像、成像链路仿真、计算成像、深度学习,中国科学院长春光学精密机械与物理研究所,tingting_xu@cumt.edu.cn,"徐婷婷，博士，准聘副教授，1996 年6 月出生，博士毕业于中国科学院长春光学精密机械与物理研究所，曾在美国佐治亚大学（University of Georgia, UGA ）联合培养1 年。
+主要从事空间动态光学成像、成像链路仿真、计算成像、深度学习等方向的研究。近年来，以第一作者发表 SCI 期刊4 篇，以第二发明人（导师第一发明人）授权专利4 项。参与军委科技委重大专项（XX 动态旋转成像技术），国家基础加强173 项目（高分辨高光谱大动态光学成像方法与目标识别）、军科委基础加强（天基 XXX 测角理论与方法研究）项目、国家自然科学基金面上项目、以及国家自然科学基金青年项目等多项课题。
+曾获国家留学基金委（CSC ）奖学金、硕士研究生国家奖学金、长春光机所学业奖学金、长春光机所新产业奖学金、中国科学院大学优秀学生等荣誉称号。
+代表性成果：
+Xu T, Yang X, Fu Z, et al. Star map matching method for optical circular rotation imaging based on graph neural networks[J]. JOSA A, 2023, 40(6): 1191-1200;
+Xu, T.; Yang, X.; Fu, Z.; Wu, M.; Gao, S. A Staring Tracking Measurement Method of Resident Space Objects Based on the Star Tacker[J]. Photonics 2023, 10(3): 288;
+Xu T, Yang X, Wang S, et al. Imaging velocity fields analysis of space camera for dynamic circular scanning[J]. IEEE Access, 2020, 8: 191574-191585;
+Xu T, Yang X, Xu C, et al. Study of satellite imaging",https://cs.cumt.edu.cn/info/1097/5334.htm,计算机科学与技术学院/人工智能学院官网,2023-09-06,2026-11-26T17:27:09
+cumt-teacher-6d5c523a37,徐晓,计算机科学与技术系,副教授,硕士生导师,数据挖掘、机器学习、智慧医疗等,,xu_xiao@cumt.edu.cn,"徐晓，女，1992 年10 月，博士，副教授，硕士生导师。研究方向：数据挖掘、机器学习、智慧医疗等。
+科研方面，主持国家自然科学基金青年基金、国家及部门重点实验室开放基金、医工结合横向项目等共7 项；在 TKDE 、TKDD 、TNNLS 、软件学报等国内外知名期刊共发表论文40 余篇；以第一发明人授权发明专利5 项；担任 TKDE 、TPAMI 、计算机学报等知名期刊审稿人；担任中国人工智能学会机器学习专委会通讯委员、知识工程与分布智能专委会青年委员，江苏省机器学习专委会委员。
+教学方面，主持校级教改2 项；指导学生获得 “ 挑战杯揭榜挂帅 ” 专项赛全国二等奖2 项；中国大学生设计大赛全国二等奖3 项、三等奖1 项；江苏省计算机设计大赛一等奖3 项、三等奖1 项；中国高校计算机大赛全国一等奖2 项、二等奖1 项；中国高校计算机大赛华东赛区一等奖2 项、二等奖1 项、三等奖1 项； 。
+Email: xu_xiao@cumt.edu.cn
+个人主页：https://faculty.cumt.edu.cn/xuxiao",https://cs.cumt.edu.cn/info/1097/6313.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-5ceddbd454,徐月美,计算机科学与技术系,副教授,,图像处理、图像融合、人工智能,中国矿业大学,,"徐月美，女，1974年7月出生。毕业于中国矿业大学，博士，副教授。
+担任全校计算机基础课程主讲教师，承担大学计算机基础和高级语言课程教学、课程建设、教学实施、教材建设、教学研究等工作。主持和参与校级教改项目多项。从事图像处理、图像融合、人工智能等方面研究，发表论文多篇。
+曾获2014徐州市“师德先进个人”、中国矿业大学2015届本科毕业设计（论文）优秀指导教师、中国矿业大学百佳本科教学教师、最受学生欢迎的教师、第十四届青年教师讲课比赛一等奖、校级优秀教学成果一等奖、校青年教师教案比赛二等奖、校级优秀教学奖一等奖等荣誉。
+参与编写教材多部，参与编写的教材获“十一五”国家级规划教材和“十二五”江苏省高等学校重点教材。",https://cs.cumt.edu.cn/info/1097/4476.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-c0fb565a0b,杨小冬,计算机科学与技术系,副教授,硕士生导师,,南京大学电子科学与工程学院,yxdnju@163.com,"杨小冬，男，1972年12月出生。毕业于南京大学电子科学与工程学院，副教授，中国矿业大学“控制科学与工程”博士后，美国Boston大学访问学者（博士后），硕士生导师。
+教授课程。本科层次：数字信号处理、生物信息识别、大学计算机基础、学科前沿讲座，等。获中国矿业大学优秀本科生毕业设计（论文）指导教师，主持和参与多项中国矿业大学教学改革项目，发表教学论文3篇。
+近年来，作为负责人，主持了中国博士后科学基金面上项目、教育部博士学科点专项科研基金项目（新教师类）、中国矿业大学科技基金项目、中国矿业大学人才引进资助基金项目等；作为核心研究成员，参加了多项国家自然科学基金项目、南京大学研究生科研创新基金项目、南京大学重大应用研究预研基金项目等。发表学术论文30多篇，第一作者在SCIENCE CHINA Life Sciences、Chinese Science Bulletin、中国科学（C辑）、科学通报、Physica A、物理学报、南京大学学报等国内外重要SCI期刊和刊物上发表多篇学术论文，出版学术专著2部（科学出版社），获国家发明专利、江苏省成果鉴定各1项。
+Email:yxdnju@163.com",https://cs.cumt.edu.cn/info/1097/4468.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-35a51af62f,梁志贞,计算机科学与技术系,副教授,,图像处理与模式识别、机器学习与数据挖掘,上海交通大学电气学院,,"梁志贞，男，1976年5月出生。博士毕业于上海交通大学电气学院，副教授。
+教授课程。本科层次：数字图像处理、大学计算机基础、学科前沿讲座等相关课程。主持和参与多项中国矿业大学教学改革项目，发表相关教学论文2篇。
+从事图像处理与模式识别、机器学习与数据挖掘等方面研究。合作出版英文书1部。在国内外重要学术期刊上发表学术论文50余篇，其中被SCI检索的论文20余篇，被EI检索的论文30余篇，被ISTP检索的论文20余篇，获国家发明专利1项。曾主持或参与863高技术、国家自然科学基金等项目的研究。",https://cs.cumt.edu.cn/info/1097/4477.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-be7aecf87f,江海峰,计算机科学与技术系,副教授,硕士生导师,无线MESH网络、无线传感器网络、嵌入式技术、矿井监测监控,中国矿业大学,jhfeng@cumt.edu.cn,"江海峰，男，1979年8月出生。工学博士，副教授，硕士生导师。博士毕业于中国矿业大学。
+江海峰主要从事无线MESH网络、无线传感器网络、嵌入式技术、矿井监测监控等方面的研究。出版专著1部。在国内外重要学术期刊上发表论文20余篇，其中被SCI检索的论文9篇，被EI检索的论文13篇。主持江苏省基础研究计划（自然科学基金）、中央高校基本科研业务费专项资金项目、教育部产学合作专业综合改革项目等。参加国家自然科学基金项目2项。
+江海峰曾获中国煤炭工业科学技术奖一等奖1项和三等奖1项，淮海科学技术奖一等奖1项；获第九批校级优秀青年骨干教师、校级百佳本科教学教师奖、校级优秀教学成果奖二等奖、校“教书育人”先进个人、全国大学生电子设计竞赛优秀辅导教师、校外实习优秀带队指导教师、教职工年度考核优秀等荣誉称号。
+江海峰现任中国计算机学会会员，江苏省计算机学会计算机与通信专业委员会委员，应邀作为IEEE Sensors Journal, International Journal of Distributed Sensor Networks等国内外期刊的特约审稿人。
+Email:jhfeng@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/4469.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-514295ff41,王珂,计算机科学与技术系,副教授,硕士生导师,虚拟现实矿山、矿山物联网,,,"王珂，副教授，硕士生导师，博士，矿业工程博士后，研究方向：虚拟现实矿山、矿山物联网。
+一、教学
+教学课程有：计算机图形学、游戏设计与制作、虚拟现实技术、动画设计与制作、大学计算机基础等。
+主持中国矿业大学教学改革项目“计算机图形学双语教学探析”；
+获得校级优秀教学成果二等奖。
+二、科研
+主持中国矿业大学青年基金项目“可用于井下的无线传感器网络定位算法的研究”；承担国家自然科学基金项目“煤矿井下火区复燃动力学特性及启封时机参数研究”、“固相粒子封堵含瓦斯煤（岩）裂隙的机理及应用研究”及江苏省自然科学基金项目“嵌入式无线传感网络在矿区数据采集中的应用研究”。主持了“矿山灾难性事故模拟系统的研究与开发”、“虚拟现实矿山及培训动画系统的开发”、“金牛股份点检系统的研究与开发”、“煤矿安全培训系统的研究与开发”等多项企业合作项目，项目经费400万元左右。
+三、论著
+参编教材1部，发表学术论文近20篇。",https://cs.cumt.edu.cn/info/1097/4467.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-324d7cd884,王荣存,计算机科学与技术系,副教授,硕士生导师,智能软件工程，主要利用程序分析技术与机器学习、数据挖掘及信息检索技术解决软件编码、测试与维护中的问题,华中科技大学,,"王荣存，博士、副教授、硕士生导师，1979年12月出生。毕业于华中科技大学。
+研究方向为智能软件工程，主要利用程序分析技术与机器学习、数据挖掘及信息检索技术解决软件编码、测试与维护中的问题。主持江苏省自然科学基金面上项目1项、中国博士后科学基金1项、徐州市科技计划项目1项、国家及省重点实验室开放基金2项、中央高校基本科研业务费项目1项；参加重点研发计划项目1项，国家自然科学基金面上项目2项。近年来，授权发明专利3项，在国内外重要学术期刊上发表SCI、EI检索的研究论文10余篇。
+曾获徐州市科学技术进步奖二等奖1项、中国煤炭协会教学成果一等奖1项。
+CCF软件工程专业委员会委员，江苏省计算机软件专业委员会委员。担任期刊IET Software、IJSEKE、FITEE、软件学报的审稿人。
+代表性成果：
+1. Rongcun Wang, Zhengmin Li, Shujuan Jiang, Chuanqi Tao. Regression test case prioritization based on fixed size candidate set ART algorithm, International Journal of Software Engineering and Knowledge Engineering, 2020, 30(3):291-320. (中国计算机学会 C类,SCI)
+2.Rongcun Wang, Shujuan Jiang, Kun Zhang, Qiao Yu. Improving the accuracy of spectrum-based fault localization using multiple rules, IEICE Transactions on Information and Systems, 2020, E103-D(6):1-11. (SCI)
+3. 姜淑娟,张旭,王荣存,黄颖,张艳梅,薛猛. 基于路径分析和信息熵的错误定位方法.软件学报,2021,32(7):2166 -2182. (通信作者,中国计算机学",https://cs.cumt.edu.cn/info/1097/6576.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-741cda6ed6,聂茹,计算机科学与技术系,副教授,,机器学习与图像处理,中国矿业大学计算机科学与技术学院,nr@cumt.edu.cn,"聂茹，女，毕业于中国矿业大学计算机科学与技术学院，副教授，博士。
+主要从事机器学习与图像处理等方面研究。发表学术论文10余篇，参与编写教材3部，主持或参与中国矿业大学校基金、江苏省基础研究计划和国家自然科学基金等项目的研究。
+Email:nr@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/4466.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-330364280c,芮晓彬,计算机科学与技术系,副教授,硕士生导师,社交网络分析、图数据挖掘、图表示学习,中国矿业大学,ruixiaobin@cumt.edu.cn,"芮晓彬，男，1992年10月出生，毕业于中国矿业大学。博士，副教授，硕士生导师，美国伊利诺伊大学芝加哥分校（UIC）访问学者，中国矿业大学优秀青年骨干教师。
+主要从事社交网络分析、图数据挖掘、图表示学习等方面的研究，主持国家自然科学基金青年项目1项，主持中央高校基本业务费项目1项，主持中国矿业大学教改项目1项，参与国家自然科学基金面上项目5项。近年来第一作者 / 通讯作者在NeurIPS、IEEE TKDE、ACM TKDD、WSDM、电子与信息学报等国内外期刊会议发表高质量论文30 余篇，授权国家发明专利10余项。指导学生参加大创项目、计算机学科竞赛等10余项。
+邮箱：ruixiaobin@cumt.edu.cn
+个人主页：https://faculty.cumt.edu.cn/ruixiaobin/zh_CN",https://cs.cumt.edu.cn/info/1097/7173.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-3eef620fcc,谢红侠,计算机科学与技术系,副教授,,数据挖掘、模糊理论、设备维修,中国矿业大学计算机学院,xiehx@cumt.edu.cn,"谢红侠，女，1980年3月出生。毕业于中国矿业大学计算机学院，副教授，博士。
+谢红侠主要从事数据挖掘、模糊理论、设备维修等方面的研究。近几年，主要承担《数据库原理》、《Android应用开发技术》等课程的教学工作，参加国家面上项目、自然基金项目、教育部重大项目、高等学校博士学科点专项科研基金项目以及主持企业委托横向项目多项，参编教材2部，发表学术论文10余篇，其中SCI、EI收录7篇。
+谢红侠近几年获校级百佳本科教学教师、校级优秀毕业设计指导教师、校级优秀班主任等荣誉称号。获中国煤炭工业科技进步二等奖1项，国家安全生产监督总局科安全生产奖三等奖1项。近几年，指导省级大学生科研训练计划项目1项，校级大学生创新创业计划项目多项。
+Email:xiehx@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/4464.htm,计算机科学与技术学院/人工智能学院官网,2017-08-01,2026-11-26T17:27:09
+cumt-teacher-fc98819077,郭丽丽,计算机科学与技术系,副教授,硕士生导师,情感计算、多模态融合、深度学习,天津大学,liliguo@cumt.edu.cn,"郭丽丽，女，1990 年8 月出生，副教授，硕士生导师，入选江苏省“双创人才计划”、中国矿业大学优秀青年骨干教师。博士毕业于天津大学，期间在新加坡南洋理工大学（NTU ）联合培养1 年。
+主要从事情感计算、多模态融合、深度学习等方面的研究。在 TPAMI 、TKDE 、TNNLS 、TCSVT 、TFS 、AAAI 等 SCI 期刊和国际会议上发表论文50 余篇，其中 CCF -A / B 论文20 余篇。主持国家自然科学基金、校基金等项目共6 项；参与国家973 项目、国家重点研发计划、国家自然科学基金面上项目等多项课题。
+担任中国计算机学会 “语音对话与听觉专委”执行委员；中国人工智能学会“粒计算与知识分布专委”委员、“知识工程与分布智能专委”委员、“机器学习专委”委员；中国图形图像学会“情感计算与理解专委”委员；江苏省人工智能学会“机器学习专委”委员、“模式识别专委”委员。此外，担任 CVPR 、KDD 、AAAI 、ICCV 、ACM MM 、TNNLS 、TASLP 、TAFFC 等领域顶会 / 顶刊的审稿人。
+Email: liliguo@cumt.edu.cn
+代表性成果：
+郭丽丽 , 王龙标 , 党建武 , 丁世飞 . 离散语音情感识别研究进展 . 软件学报 , 2024, 35(12): 5487-5508. （CCF- A, CAAI- A ）
+Lili Guo , Shifei Ding, Longbiao Wang, Jianwu Dang. DSTCNet: Deep Spectro-Temporal-Channel Attention Network for Speech Emotion Recognition. IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(1): 188-197. （CCF-B , CAAI- A , IF: 10.4 ）
+Lili Guo , J ianglan Zhu, C henglong Zhang , et al. Intu",https://cs.cumt.edu.cn/info/1097/6311.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-3d4dae7c34,高守婉,计算机科学与技术系,副教授,硕士生导师,物联网、网络控制系统、矿井安全监测以及群智感知,中国海洋大学,gaoshouwan@cumt.edu.cn,"高守婉，博士、副教授、硕士生导师，1982年10月出生。毕业于中国海洋大学，曾公派至澳大利亚中央昆士兰大学进行博士联合培养。
+主要从事物联网、网络控制系统、矿井安全监测以及群智感知等方面的理论与应用研究。先后主持国家自然科学基金青年项目1项、江苏省自然科学基金1项、学科前沿科学研究专项面上项目1项、横向项目1项, 参加国家自然科学基金面上项目2项。近年来，在国内外重要学术期刊上发表SCI/EI检索论文20余篇，出版专著1部，授权中国发明专利4件。
+荣获2016中国物联网学术会议（CWSN）优秀论文奖、2017中国物联网学术会议（CWSN）最佳论文奖、2020江苏省大学生计算机设计大赛优秀指导教师奖，指导本科生获江苏省大学生计算机设计大赛特等奖、一等奖以及中国计算机设计大赛二等奖等多个奖项，多次荣获中国矿业大学“百佳本科教学教师”称号，指导国家级、省级、校级等多项大学生创新计划训练项目。
+Email: gaoshouwan@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/4481.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-e8f9ac2ecb,黎捷,计算机科学与技术系,副教授,硕士生导师,机器学习、深度学习、医学图像处理与分析、职业病防治与安全等作为负责人，主持过国家自然科学基金青年项目、省、部级科研项目（青年类、面上等）共5项,哈尔滨工业大学计算机科学与技术学院,lijiecs@cumt.edu.cn,"黎捷，女，1982年6月出生。毕业于哈尔滨工业大学计算机科学与技术学院，副教授，硕士生导师。
+主讲课程：计算机新技术、程序设计实训，Python语言程序设计。
+研究方向：机器学习、深度学习、医学图像处理与分析、职业病防治与安全等
+作为负责人，主持过国家自然科学基金青年项目、省、部级科研项目（青年类、面上等）共5项；作为研究成员，参加过863计划项目、国家自然科学基金项目、省级科学基金项目共8项。出版学术专著1部，教材1部，获国家发明专利授权3项。发表学术论文多篇。
+Email: lijiecs@cumt.edu.cn",https://cs.cumt.edu.cn/info/1097/4542.htm,计算机科学与技术学院/人工智能学院官网,2022-08-11,2026-11-26T17:27:09
+cumt-teacher-9c0da8c5ca,刘珏廷,计算机科学与技术系,讲师,,方向为大语言模型，自然语言处理等,奥本大学,6476@cumt.edu.cn,"刘珏廷，博士，讲师，毕业于奥本大学，主要研究方向为大语言模型，自然语言处理等。在相关领域发表期刊会议论文20余篇，主持中央高校基本科研项目1项，获中国煤炭工业协会科学技术二等奖1项，江苏省信息技术应用学会科技进步三等奖1项。
+联系方式：6476@cumt.edu.cn",https://cs.cumt.edu.cn/info/1098/6658.htm,计算机科学与技术学院/人工智能学院官网,2025-09-17,2026-11-26T17:27:09
+cumt-teacher-3a47bdcc17,刘迎春,计算机科学与技术系,讲师,,,,,,https://cs.cumt.edu.cn/info/1098/6579.htm,计算机科学与技术学院/人工智能学院官网,2022-08-16,2026-11-26T17:27:09
+cumt-teacher-ff58e70c45,周世斌,计算机科学与技术系,讲师,,,,,,https://cs.cumt.edu.cn/info/1098/4543.htm,计算机科学与技术学院/人工智能学院官网,2022-08-11,2026-11-26T17:27:09
+cumt-teacher-486a6fd163,孙仁科,计算机科学与技术系,讲师,,,,,,https://cs.cumt.edu.cn/info/1098/4544.htm,计算机科学与技术学院/人工智能学院官网,2022-08-11,2026-11-26T17:27:09
+cumt-teacher-914219f83e,尹雨晴,计算机科学与技术系,讲师,,无线智能感知、无线传感网定位、矿山物联网,中国矿业大学,yinyuqing@cumt.edu.cn,"尹雨晴，博士，讲师，1992 年11 月出生，博士毕业于中国矿业大学，曾在美国马萨诸塞大学阿默斯特分校（UMASS, Amherst ）联合培养1 年半。
+主要从事无线智能感知、无线传感网定位、矿山物联网等方向的研究，在 Ubicomp 、Sensys 、IEEE IoT J 、IEEE Trans 等国内外期刊会议发表论文19 篇，其中第一作者发表 “ 三类高质量论文 ”7 篇，以第一发明人授权专利1 项。
+主持中央高校基本科研项目1 项、江苏省研究生科研与实践创新计划项目1 项，参与国家自然科学基金面上目1 项，获得2021 年度博士研究生国家奖学金，获得2022 年中国煤炭工业学会科技术奖二等奖 (R4) 。
+代表性成果：
+Yin Yuqing, Yang Xu, Xiong Jie, et al. Ubiquitous Smartphone-Based Respiration Sensing With Wi-Fi Signal[J]. IEEE Internet of Things Journal , 2021, 9(2): 1479-1490.
+Xie Binbin, Yin Yuqing, Xiong Jie. Pushing the Limits of Long Range Wireless Sensing with LoRa[C]. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies(Ubicomp), 2021, 5(3): 1-21.
+Yin Yuqing, Li Peihao, Yang Xu, et al. Poster Abstract: COVID-19 tracer: passive close-contacts searching through wi-fi probes[C]. Proceedings of the 18th Conference on Embedded Networked Sensor Systems(S",https://cs.cumt.edu.cn/info/1098/4573.htm,计算机科学与技术学院/人工智能学院官网,2022-08-16,2026-11-26T17:27:09
+cumt-teacher-707f070af0,徐志鸥,计算机科学与技术系,讲师,,,,,,https://cs.cumt.edu.cn/info/1098/4545.htm,计算机科学与技术学院/人工智能学院官网,2022-08-11,2026-11-26T17:27:09
+cumt-teacher-dc1e37a6cb,毛磊,计算机科学与技术系,讲师,,方向：人工智能，大数据,,,"毛磊，男，1978年6月出生，江苏徐州人，中共党员，博士，中国矿业大学计算机科学与技术学院教师。
+主要研究方向：人工智能，大数据。参与国家自然科学基金3项，国家重大科技专项2项，主持横向科研项目多项。发表科研论文二十余篇。
+多次获得学校百佳本科教学教师奖，校教书育人先进个人。曾获高水平本科教学成果奖（省级）一次，校级教学成果奖一等奖两次，二等奖一次，主编参编教材两部。",https://cs.cumt.edu.cn/info/1098/4489.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-6c3d05f6c3,王莉,计算机科学与技术系,讲师,,控制理论与控制工程、进化算法、神经网络、计算机控制、计算机组成与接口方面的教学与,中国矿业大学信息与电气工程学院,,"王莉，硕士、讲师，1975年12月出生。毕业于中国矿业大学信息与电气工程学院。
+主要从事控制理论与控制工程、进化算法、神经网络、计算机控制、计算机组成与接口方面的教学与研究工作。主持卓越工程师教改项目一项，院教改项目一项，参加国家自然科学基金项目一项，在国内外学术期刊上发表了多篇学术论文与教学论文。",https://cs.cumt.edu.cn/info/1098/4490.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-24bbfad218,王重秋,计算机科学与技术系,讲师,,机电装备状态检测、信号分析、智能诊断和安全保障,中国矿业大学机电工程学院,,"王重秋，博士、讲师，1987年7月出生。毕业于中国矿业大学机电工程学院。
+主要从事机电装备状态检测、信号分析、智能诊断和安全保障等方面理论与应用研究。参与国家重点研发计划2项、国家863计划项目1项、国家自然科学基金面上项目1项、中央高校科研专项1项、企业横向项目若干项。近年来，在相关领域以第一作者发表SCI 检索论文5 篇，排名第一授权国家发明专利12 项，排名第一获国际PCT 专利2 项，授权澳大利亚、加拿大和南非等国外发明专利4 项。
+曾获教育部科技进步一等奖、教育部高等学校科学研究优秀成果二等奖、江苏省科学技术一等奖、江苏省科学技术三等奖、中国机械工业科学技术奖一等奖、中国煤炭工业科学技术二等奖等。",https://cs.cumt.edu.cn/info/1098/4488.htm,计算机科学与技术学院/人工智能学院官网,2022-07-25,2026-11-26T17:27:09
+cumt-teacher-52e21af172,季霄鹏,计算机科学与技术系,师资博士后,,脑机接口、生物信号分类，主要借助脑电、眼电、肌电等生物信号研究各种生物活动时大脑的信号特征，如睡眠阶段分类，癫痫预测，情绪识别等,长安大学,jixiaopeng@cumt.edu.cn,"季霄鹏，本科毕业于长安大学，硕士毕业于中国矿业大学，博士毕业于南昆士兰大。现为中国矿业大学计算机科学与技术学院博士后，合作导师王磊教授。
+博士研究方向为脑机接口、生物信号分类，主要借助脑电、眼电、肌电等生物信号研究各种生物活动时大脑的信号特征，如睡眠阶段分类，癫痫预测，情绪识别等。博士期间第一作者发表IEEE Trans 两篇。
+Mail:jixiaopeng@cumt.edu.cn",https://cs.cumt.edu.cn/info/1108/6034.htm,计算机科学与技术学院/人工智能学院官网,2024-10-17,2026-11-26T17:27:09
+cumt-teacher-bc4b1d3f5c,岳海林,计算机科学与技术系,师资博士后,,方向为生物医学图像分析，重点开展肿瘤医学影像智能分析、多模态信息融合及癌症生存预测,中南大学计算机学院,yuehailin@cumt.edu.cn,"岳海林，男，江苏徐州人，博士毕业于中南大学计算机学院。主要研究方向为生物医学图像分析，重点开展肿瘤医学影像智能分析、多模态信息融合及癌症生存预测等方面的研究。
+曾主持放射肿瘤学四川省重点实验室开放基金、湖南省研究生科研创新项目、中南大学研究生科研创新项目等科研项目，并参与多项国家重点研发计划项目及面上项目。近年来主要围绕医学人工智能、医学图像分析与生物信息学等方向开展研究，以第一作者在医学图像分析领域顶级期刊 Medical Image Analysis 、国际医学图像计算顶级会议MICCAI，以及 Big Data Mining and Analytics 、IEEE Transactions on NanoBioscience 、International Journal of Surgery 、IEEE BIBM等领域重要期刊和国际会议发表10余篇学术论文，并以第一作者身份获得IEEE BIBM2023唯一Best Paper Award。
+曾获湖南省优秀硕士学位论文、中南大学校长奖学金、中南大学山茶花奖学金、湖南省研究生创新大赛一等奖，并连续三年获中南大学学业奖学金一等奖。
+邮箱：yuehailin@cumt.edu.cn",https://cs.cumt.edu.cn/info/1108/7572.htm,计算机科学与技术学院/人工智能学院官网,2024-10-17,2026-11-26T17:27:09
+cumt-teacher-53fb28d2c5,赵少川,计算机科学与技术系,师资博士后,,计算机视觉与模式识别，涵盖视觉目标跟踪、神经网络安全与多模态学习等领域,,zsc886@yeah.net,"赵少川，男，博士，2024 年6 月于江南大学控制科学与工程专业获工学博士学位，同年入职中国矿业大学计算机科学与技术博士后流动站。
+研究方向为计算机视觉与模式识别，涵盖视觉目标跟踪、神经网络安全与多模态学习等领域。在 IJCV 、IEEE TIFS 、IEEE TCSVT 、PR 、ICPR 等国内外权威期刊和会议上发表论文多篇，并数次在国际视觉目标跟踪竞赛（VOT Challenge ）中取得名次。以主要成员身份参与国家自然科学基金联合基金重点项目、国际合作重点项目、军委装备发展部预研项目等多项国家级项目。曾任中国计算机学会江南大学学生分会主席。目前担任 IEEE TIP 、IEEE TNNLS 、IEEE TCSVT 、AAAI 等国际权威期刊和会议的审稿人。
+联系方式：zsc886@yeah.net
+代表性成果：
+Shaochuan Zhao , Tianyang Xu, Xiao-Jun Wu*, Josef Kittler, A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression. International Journal of Computer Vision , 2023. （CCF-A 类期刊）
+Shaochuan Zhao , Tianyang Xu, Xiao-Jun Wu*, Josef Kittler, Pluggable Attack for Visual Object Tracking. IEEE Transactions on Information Forensics and Security , 2024. （CCF-A 类期刊）
+Shaochuan Zhao , Tianyang Xu, Xiao-Jun Wu*, Josef Kittler, Distillation, Ensemble and Selection for building a Better and Faster Siamese based Tr",https://cs.cumt.edu.cn/info/1108/5977.htm,计算机科学与技术学院/人工智能学院官网,2024-09-20,2026-11-26T17:27:09
